@@ -1,0 +1,750 @@
+﻿Log file open, 01/31/18 13:37:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1150295072) SRandInit(1150295072).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180972
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Unreal/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.31-13.37.55:809][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-13.37.55:809][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.31-13.37.55:822][  0]LogInit: Computer: DESKTOP-13UT98C
+[2018.01.31-13.37.55:822][  0]LogInit: User: martynooo
+[2018.01.31-13.37.55:822][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.31-13.37.55:822][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.01.31-13.37.55:822][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.31-13.37.55:822][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.31-13.37.55:822][  0]LogMemory: Process Physical Memory: 274.19 MB used, 274.19 MB peak
+[2018.01.31-13.37.55:822][  0]LogMemory: Process Virtual Memory: 269.87 MB used, 269.87 MB peak
+[2018.01.31-13.37.55:822][  0]LogMemory: Physical Memory: 6663.34 MB used,  9656.46 MB free, 16319.79 MB total
+[2018.01.31-13.37.55:822][  0]LogMemory: Virtual Memory: 677.91 MB used,  9656.46 MB free, 134217728.00 MB total
+[2018.01.31-13.37.56:024][  0]LogInit: Using OS detected language (en-US).
+[2018.01.31-13.37.56:024][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.31-13.37.56:029][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.31-13.37.56:718][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.31-13.37.56:761][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.01.31-13.37.56:761][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.31-13.37.56:763][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.31-13.37.56:763][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.31-13.37.56:763][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.31-13.37.56:770][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.31-13.37.56:770][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.31-13.37.56:770][  0]LogWindows: EnumDisplayDevices:
+[2018.01.31-13.37.56:770][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.01.31-13.37.56:770][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.31-13.37.56:770][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.31-13.37.56:770][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.31-13.37.56:770][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.31-13.37.56:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.01.31-13.37.56:770][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.31-13.37.56:770][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.31-13.37.56:770][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.01.31-13.37.56:795][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.31-13.37.56:813][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.31-13.37.56:856][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../FYP/vr_project/MyProject/Intermediate/Shaders/WorkingDirectory/9732/).
+[2018.01.31-13.37.56:856][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/martynooo/AppData/Local/Temp/UnrealShaderWorkingDir/0187B9D4472E93A8C4F2D9BC5E604F70/'.
+[2018.01.31-13.37.56:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.31-13.37.57:836][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.31-13.37.57:898][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.31-13.37.57:959][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.31-13.37.58:021][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.31-13.37.58:083][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.31-13.37.58:144][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.31-13.37.58:205][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.31-13.37.58:265][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.31-13.37.58:320][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.31-13.37.58:379][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.31-13.37.58:441][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.31-13.37.58:503][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.31-13.37.58:563][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.31-13.37.58:622][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.31-13.37.58:740][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.31-13.37.58:740][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.31-13.37.58:803][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.31-13.37.58:854][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.31-13.37.58:958][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.31-13.37.58:990][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.31-13.37.59:049][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.31-13.37.59:108][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.31-13.37.59:168][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.31-13.37.59:228][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.31-13.37.59:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.31-13.37.59:796][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.31-13.37.59:864][  0]LogDerivedDataCache: Loaded boot cache 0.07s 69MB C:/Users/martynooo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-13.37.59:864][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/martynooo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.31-13.37.59:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../FYP/vr_project/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.31-13.37.59:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.31-13.37.59:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../FYP/vr_project/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.31-13.37.59:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.31-13.37.59:881][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.31-13.37.59:893][  0]LogDerivedDataCache: Using Local data cache path C:/Users/martynooo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.31-13.37.59:931][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.31-13.37.59:931][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.31-13.37.59:932][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-13.37.59:932][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-13.38.00:310][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-13.38.00:399][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.01.31-13.38.45:343][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.01.31-13.38.55:406][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.01.31-13.38.56:156][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.01.31-13.38.57:080][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.01.31-13.38.57:492][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.31-13.38.57:570][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.31-13.38.57:570][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.31-13.38.57:570][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.31-13.38.57:570][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.31-13.38.57:570][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.31-13.38.57:606][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.01.31-13.38.57:644][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.01.31-13.38.57:795][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.01.31-13.38.57:988][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2018.01.31-13.38.58:046][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.01.31-13.38.58:079][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.01.31-13.38.58:279][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.01.31-13.38.58:316][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.01.31-13.38.58:336][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.01.31-13.38.58:434][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.01.31-13.38.58:544][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.01.31-13.38.58:595][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.01.31-13.38.58:746][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.58:765][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.58:803][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.58:832][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.58:846][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.58:878][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.01.31-13.38.59:058][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.01.31-13.38.59:083][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.01.31-13.38.59:226][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.01.31-13.38.59:271][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.01.31-13.38.59:374][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.01.31-13.38.59:414][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.01.31-13.38.59:447][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.01.31-13.38.59:615][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.094338 seconds
+[2018.01.31-13.38.59:623][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.31-13.38.59:623][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.31-13.38.59:623][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.31-13.38.59:743][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.31-13.39.02:320][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.01.31-13.39.02:341][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.01.31-13.39.02:368][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.01.31-13.39.02:392][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.01.31-13.39.02:439][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.01.31-13.39.02:460][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.01.31-13.39.02:521][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.01.31-13.39.02:555][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.01.31-13.39.02:613][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.01.31-13.39.02:663][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.01.31-13.39.02:701][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.01.31-13.39.02:749][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.01.31-13.39.02:765][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.01.31-13.39.02:808][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.01.31-13.39.02:829][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.01.31-13.39.04:550][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.01.31-13.39.04:580][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.01.31-13.39.05:406][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.31-13.39.05:494][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.31-13.39.06:137][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.01.31-13.39.06:922][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.01.31-13.39.06:937][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.01.31-13.39.06:976][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.31-13.39.06:979][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.01.31-13.39.06:995][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.01.31-13.39.07:010][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.01.31-13.39.07:024][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.01.31-13.39.07:038][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.01.31-13.39.07:052][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.01.31-13.39.07:066][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.01.31-13.39.07:081][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.01.31-13.39.07:095][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.01.31-13.39.07:110][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.01.31-13.39.07:124][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.01.31-13.39.07:140][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.01.31-13.39.07:154][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.01.31-13.39.07:168][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.01.31-13.39.07:186][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.01.31-13.39.07:214][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.01.31-13.39.07:230][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.01.31-13.39.07:245][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.01.31-13.39.07:260][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.01.31-13.39.07:975][  0]SourceControl: Source control is disabled
+[2018.01.31-13.39.07:975][  0]SourceControl: Source control is disabled
+[2018.01.31-13.39.08:080][  0]SourceControl: Source control is disabled
+[2018.01.31-13.39.08:184][  0]SourceControl: Source control is disabled
+[2018.01.31-13.39.09:299][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.01.31-13.39.09:879][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.31-13.39.10:427][  0]LogOcInput: OculusInput pre-init called
+[2018.01.31-13.39.10:906][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.01.31-13.39.10:931][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.01.31-13.39.10:960][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.01.31-13.39.11:042][  0]LogEngine: Initializing Engine...
+[2018.01.31-13.39.11:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.31-13.39.11:053][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.01.31-13.39.11:390][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.01.31-13.39.12:344][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.01.31-13.39.12:637][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.01.31-13.39.13:581][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.01.31-13.39.14:527][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.01.31-13.39.14:804][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.01.31-13.39.14:940][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.01.31-13.39.14:974][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.01.31-13.39.15:000][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.01.31-13.39.15:027][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.01.31-13.39.15:052][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.01.31-13.39.15:077][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.01.31-13.39.15:089][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.01.31-13.39.15:115][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.01.31-13.39.15:179][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.01.31-13.39.15:208][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.01.31-13.39.15:241][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.01.31-13.39.15:263][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.01.31-13.39.15:285][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.01.31-13.39.15:432][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.01.31-13.39.15:459][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.01.31-13.39.15:491][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.01.31-13.39.15:513][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.01.31-13.39.15:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.31-13.39.15:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.31-13.39.15:906][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.31-13.39.15:914][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.31-13.39.15:964][  0]LogInit: FAudioDevice initialized.
+[2018.01.31-13.39.16:024][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/martynooo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-13.39.16:047][  0]LogInit: Texture streaming: Enabled
+[2018.01.31-13.39.16:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.31-13.39.16:539][  0]LogInit: Transaction tracking system initialized
+[2018.01.31-13.39.17:196][  0]BlueprintLog: New page: Editor Load
+[2018.01.31-13.39.19:100][  0]LocalizationService: Localization service is disabled
+[2018.01.31-13.39.20:653][  0]LogConsoleResponse: Display: 
+[2018.01.31-13.39.20:703][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.01.31-13.39.20:733][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.01.31-13.39.20:756][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.01.31-13.39.20:788][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.01.31-13.39.20:812][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.01.31-13.39.20:846][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.01.31-13.39.20:884][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.01.31-13.39.20:909][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.01.31-13.39.20:934][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.01.31-13.39.20:956][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.01.31-13.39.20:979][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.01.31-13.39.21:003][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.01.31-13.39.21:023][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.01.31-13.39.21:087][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.01.31-13.39.21:151][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.01.31-13.39.21:205][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.01.31-13.39.21:249][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.31-13.39.21:249][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.31-13.39.21:250][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.31-13.39.21:784][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/MyProject/Content/' took 0.01s
+[2018.01.31-13.39.23:702][  0]SourceControl: Source control is disabled
+[2018.01.31-13.39.23:708][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Unreal/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.01.31-13.39.23:718][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.31-13.39.23:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.01.31-13.39.23:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.01.31-13.39.23:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.01.31-13.39.23:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.01.31-13.39.23:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.01.31-13.39.23:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.01.31-13.39.23:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.01.31-13.39.23:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.01.31-13.39.23:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.01.31-13.39.23:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.01.31-13.39.23:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.01.31-13.39.23:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.01.31-13.39.23:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.01.31-13.39.23:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.01.31-13.39.23:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.01.31-13.39.23:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.01.31-13.39.23:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.01.31-13.39.23:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2018.01.31-13.39.23:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.01.31-13.39.23:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.01.31-13.39.23:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.01.31-13.39.23:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2018.01.31-13.39.23:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.01.31-13.39.23:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2018.01.31-13.39.23:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.01.31-13.39.23:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.01.31-13.39.23:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.01.31-13.39.23:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.01.31-13.39.23:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.01.31-13.39.23:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.01.31-13.39.23:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.01.31-13.39.23:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.01.31-13.39.23:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.01.31-13.39.23:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2018.01.31-13.39.23:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.01.31-13.39.23:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.01.31-13.39.23:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.01.31-13.39.23:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.01.31-13.39.23:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.01.31-13.39.24:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.01.31-13.39.24:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.01.31-13.39.24:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.01.31-13.39.24:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.01.31-13.39.24:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.01.31-13.39.24:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.01.31-13.39.24:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.01.31-13.39.24:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.01.31-13.39.24:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.01.31-13.39.24:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.01.31-13.39.24:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.01.31-13.39.24:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.01.31-13.39.24:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.01.31-13.39.24:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.01.31-13.39.24:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.01.31-13.39.24:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.01.31-13.39.24:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.01.31-13.39.24:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2018.01.31-13.39.24:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.01.31-13.39.24:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.01.31-13.39.24:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.01.31-13.39.24:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.01.31-13.39.24:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.01.31-13.39.24:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.01.31-13.39.24:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.01.31-13.39.24:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.01.31-13.39.24:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.01.31-13.39.24:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.01.31-13.39.24:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.01.31-13.39.24:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.01.31-13.39.24:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.01.31-13.39.24:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.01.31-13.39.24:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.01.31-13.39.24:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.01.31-13.39.24:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.01.31-13.39.24:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.01.31-13.39.24:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.01.31-13.39.24:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.01.31-13.39.24:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.01.31-13.39.24:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.01.31-13.39.24:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.01.31-13.39.24:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.01.31-13.39.24:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.01.31-13.39.24:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.01.31-13.39.24:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.01.31-13.39.24:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.01.31-13.39.24:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.01.31-13.39.24:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.01.31-13.39.24:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.01.31-13.39.24:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.01.31-13.39.24:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.01.31-13.39.24:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.01.31-13.39.24:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.01.31-13.39.24:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.01.31-13.39.24:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.01.31-13.39.24:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.01.31-13.39.24:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.01.31-13.39.24:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.01.31-13.39.24:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.01.31-13.39.24:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.01.31-13.39.24:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.01.31-13.39.24:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.01.31-13.39.24:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.01.31-13.39.24:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.01.31-13.39.24:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.01.31-13.39.24:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.01.31-13.39.24:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.01.31-13.39.24:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.01.31-13.39.24:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.01.31-13.39.24:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.01.31-13.39.24:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.01.31-13.39.24:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.01.31-13.39.24:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.01.31-13.39.24:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.01.31-13.39.24:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.01.31-13.39.24:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.01.31-13.39.24:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.01.31-13.39.24:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.01.31-13.39.24:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.01.31-13.39.24:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.01.31-13.39.24:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.01.31-13.39.24:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.01.31-13.39.24:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.01.31-13.39.24:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2018.01.31-13.39.24:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.01.31-13.39.24:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.01.31-13.39.24:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.01.31-13.39.24:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.01.31-13.39.24:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.01.31-13.39.24:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.01.31-13.39.24:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.01.31-13.39.24:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.01.31-13.39.24:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.01.31-13.39.24:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.01.31-13.39.24:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.01.31-13.39.24:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.01.31-13.39.24:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.01.31-13.39.24:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.01.31-13.39.24:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.01.31-13.39.24:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.01.31-13.39.24:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.01.31-13.39.24:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.01.31-13.39.24:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.01.31-13.39.24:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.01.31-13.39.24:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.01.31-13.39.24:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.01.31-13.39.24:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.01.31-13.39.24:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.01.31-13.39.24:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.01.31-13.39.24:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.01.31-13.39.24:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.01.31-13.39.24:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.01.31-13.39.24:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.01.31-13.39.24:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.01.31-13.39.24:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.01.31-13.39.25:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.01.31-13.39.25:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.01.31-13.39.25:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.01.31-13.39.25:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.01.31-13.39.25:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.01.31-13.39.25:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.01.31-13.39.25:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.01.31-13.39.25:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.01.31-13.39.25:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.01.31-13.39.25:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.01.31-13.39.25:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.01.31-13.39.25:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.01.31-13.39.25:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.01.31-13.39.25:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.01.31-13.39.25:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.01.31-13.39.25:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.01.31-13.39.25:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.01.31-13.39.25:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.01.31-13.39.25:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.01.31-13.39.25:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.01.31-13.39.25:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.01.31-13.39.25:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.01.31-13.39.25:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.01.31-13.39.25:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.01.31-13.39.25:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.01.31-13.39.25:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.01.31-13.39.25:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.01.31-13.39.25:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.01.31-13.39.25:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.01.31-13.39.25:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.01.31-13.39.25:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.01.31-13.39.25:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.01.31-13.39.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.01.31-13.39.25:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.01.31-13.39.25:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.01.31-13.39.25:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.01.31-13.39.25:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.01.31-13.39.25:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.01.31-13.39.25:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.01.31-13.39.25:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.01.31-13.39.25:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.01.31-13.39.25:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.01.31-13.39.25:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.01.31-13.39.25:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.01.31-13.39.25:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.01.31-13.39.25:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.01.31-13.39.25:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.01.31-13.39.25:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.01.31-13.39.25:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.01.31-13.39.25:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.01.31-13.39.25:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.01.31-13.39.25:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.01.31-13.39.25:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.01.31-13.39.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.01.31-13.39.25:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.01.31-13.39.25:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.01.31-13.39.25:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.01.31-13.39.25:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.01.31-13.39.25:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.01.31-13.39.25:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.01.31-13.39.25:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.01.31-13.39.25:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.01.31-13.39.25:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.01.31-13.39.25:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.01.31-13.39.25:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.01.31-13.39.25:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.01.31-13.39.25:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.01.31-13.39.25:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.01.31-13.39.25:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.01.31-13.39.25:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.01.31-13.39.25:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.01.31-13.39.25:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.01.31-13.39.25:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.01.31-13.39.25:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.01.31-13.39.25:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.01.31-13.39.25:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.01.31-13.39.25:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.01.31-13.39.25:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.01.31-13.39.25:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.01.31-13.39.25:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.01.31-13.39.25:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.01.31-13.39.25:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.01.31-13.39.26:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.01.31-13.39.26:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.01.31-13.39.26:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.01.31-13.39.26:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.01.31-13.39.26:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.01.31-13.39.26:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.01.31-13.39.26:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.01.31-13.39.26:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.01.31-13.39.26:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.01.31-13.39.26:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.01.31-13.39.26:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.01.31-13.39.26:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.01.31-13.39.26:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.01.31-13.39.26:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.01.31-13.39.26:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.01.31-13.39.26:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.01.31-13.39.26:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.01.31-13.39.26:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.01.31-13.39.26:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.01.31-13.39.26:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.01.31-13.39.26:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.01.31-13.39.26:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.01.31-13.39.26:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.01.31-13.39.26:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.01.31-13.39.26:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.01.31-13.39.26:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.01.31-13.39.26:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.01.31-13.39.26:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.01.31-13.39.26:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.01.31-13.39.26:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.01.31-13.39.26:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.01.31-13.39.26:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.01.31-13.39.26:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.01.31-13.39.26:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../FYP/vr_project/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.01.31-13.39.26:462][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.01.31-13.39.26:520][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.01.31-13.39.26:524][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.01.31-13.39.26:832][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2018.01.31-13.39.26:972][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.01.31-13.39.27:009][  0]LogSavePackage: Save=25.76ms
+[2018.01.31-13.39.27:009][  0]LogSavePackage: Moving '../../../../../FYP/vr_project/MyProject/Saved/Floor_400x4001588EDE3440AD72D70DFBA869D3D1172.tmp' to '../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.01.31-13.39.27:018][  0]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.01.31-13.39.27:018][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.01.31-13.39.27:025][  0]Cmd: MAP LOAD FILE="../../../../../FYP/vr_project/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-13.39.27:025][  0]LightingResults: New page: Lighting Build
+[2018.01.31-13.39.27:109][  0]MapCheck: New page: Map Check
+[2018.01.31-13.39.27:109][  0]LightingResults: New page: Lighting Build
+[2018.01.31-13.39.27:238][  0]LogMaterial: Missing cached shader map for material M_BaseMaterial, compiling. 
+[2018.01.31-13.39.27:328][  0]LogMaterial: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2018.01.31-13.39.27:354][  0]LogMaterial: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2018.01.31-13.39.27:415][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.01.31-13.39.27:449][  0]LogMaterial: Missing cached shader map for material M_HandMat, compiling. 
+[2018.01.31-13.39.27:540][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.31-13.39.27:590][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-13.39.27:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-13.39.27:683][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.92ms to complete.
+[2018.01.31-13.39.27:683][  0]LogFileHelpers: Loading map 'StartupMap' took 0.658
+[2018.01.31-13.39.27:753][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-13.39.27:953][  0]LogCollectionManager: Loaded 0 collections in 0.002371 seconds
+[2018.01.31-13.39.28:093][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/MyProject/Saved/Collections/' took 0.01s
+[2018.01.31-13.39.28:093][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/MyProject/Content/Developers/martynooo/Collections/' took 0.01s
+[2018.01.31-13.39.28:093][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/MyProject/Content/Collections/' took 0.01s
+[2018.01.31-13.39.28:093][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.31-13.39.28:111][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2363 classes and 519 folders.
+[2018.01.31-13.39.28:250][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.31-13.39.28:316][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.31-13.39.28:418][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.31-13.39.28:486][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-13.39.28:488][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.31-13.39.28:506][  0]LogSlate: Took 0.007876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.31-13.39.28:607][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.01.31-13.39.28:631][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 26 NumSamples 1 (Frame:1).
+[2018.01.31-13.39.28:708][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-13.39.29:204][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.31-13.39.29:204][  0]LogLoad: (Engine Initialization) Total time: 95.99 seconds
+[2018.01.31-13.39.29:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.31-13.39.29:205][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.31-13.39.29:424][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.31-13.39.29:551][  1]LogAssetRegistry: Asset discovery search completed in 31.5856 seconds
+[2018.01.31-13.39.29:554][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.31-13.39.29:554][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.01.31-13.40.12:496][199]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.01.31-13.43.18:887][212]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2018.01.31-13.43.53:340][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2018.01.31-13.43.58:005][189]Cmd: SELECT NONE
