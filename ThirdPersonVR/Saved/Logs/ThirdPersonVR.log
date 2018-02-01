@@ -398,3 +398,515 @@ LogInit: Object subsystem initialized
 [2018.02.01-15.05.22:240][413]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataC9C5CDBA4D9ACC33BFEE0489F5E96071.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.02.01-15.05.22:242][413]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
 [2018.02.01-15.05.23:067][442]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-15.09.13:688][516]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.02.01-15.09.14:316][516]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.02.01-15.09.14:424][516]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-15.11.02:693][438]LogRenderer: Reallocating scene render targets to support 964x688 Format 10 NumSamples 1 (Frame:1).
+[2018.02.01-15.12.08:153][910]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2018.02.01-15.12.50:887][943]Cmd: TRANSACTION UNDO
+[2018.02.01-15.12.50:888][943]LogEditorTransaction: Undo Remove Event Dispatcher
+[2018.02.01-15.12.53:266][991]Cmd: TRANSACTION UNDO
+[2018.02.01-15.12.53:266][991]LogEditorTransaction: Undo Add New Event Dispatcher
+[2018.02.01-15.12.53:924][  4]Cmd: TRANSACTION UNDO
+[2018.02.01-15.12.53:924][  4]LogEditorTransaction: Undo Create Pin Link
+[2018.02.01-15.13.47:821][225]LogSavePackage: Save=153.66ms
+[2018.02.01-15.13.47:821][225]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap97185E9F4557BB59A89BC5A747EAA4FA.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.13.47:825][225]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.13.48:000][225]LogSavePackage: Save=142.42ms
+[2018.02.01-15.13.48:000][225]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataD8DA8561473DEC52F0A2209C48C876E3.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-15.13.48:002][225]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-15.15.25:290][268]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.02.01-15.15.35:174][738]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2018.02.01-15.15.48:397][454]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-15.15.49:998][454]LogSavePackage: Save=71.92ms
+[2018.02.01-15.15.49:998][454]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonCharacter29A3E1B24FA67C6CBDDE2F909D7994E3.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.02.01-15.15.50:001][454]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.02.01-15.18.32:376][238]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.02.01-15.18.33:587][301]Cmd: DELETE
+[2018.02.01-15.18.33:587][301]Cmd: ACTOR DELETE
+[2018.02.01-15.18.33:589][301]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.02.01-15.18.33:607][301]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.02.01-15.18.34:992][384]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2018.02.01-15.18.36:418][466]Cmd: DELETE
+[2018.02.01-15.18.36:418][466]Cmd: ACTOR DELETE
+[2018.02.01-15.18.36:420][466]LogEditorActor: Deleted Actor: DocumentationActor
+[2018.02.01-15.18.36:436][466]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.02.01-15.18.58:419][736]LogSavePackage: Save=155.60ms
+[2018.02.01-15.18.58:419][736]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap9ABF0E76455548FAC208A4A427BD3866.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.18.58:419][736]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2018.02.01-15.18.58:920][736]LogFileManager: Error: Error deleting file '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'.
+[2018.02.01-15.18.58:920][736]LogSavePackage: Error: Error saving '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.18.58:923][736]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.18.58:964][736]EditorErrors: New page: Save Output
+[2018.02.01-15.18.58:964][736]EditorErrors: Warning: Error saving '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.19.06:137][807]LogSavePackage: Save=151.67ms
+[2018.02.01-15.19.06:137][807]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap0400C18047FF262B0DA1339C5B49CA13.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.19.06:140][807]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.19.06:317][807]LogSavePackage: Save=142.52ms
+[2018.02.01-15.19.06:317][807]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltData9A376CC84DD870C2F93A238805FD9940.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-15.19.06:318][807]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-15.19.25:135][432]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Character.Character_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.02.01-15.19.25:135][432]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Character.SKEL_Character_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.02.01-15.19.25:326][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.01-15.19.25:401][432]LogSavePackage: Save=73.27ms
+[2018.02.01-15.19.25:401][432]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/CharacterD954A5D04CBA4E8813F098BD8DA5118E.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.01-15.19.25:403][432]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.01-15.19.25:457][432]LogSavePackage: Save=4.46ms
+[2018.02.01-15.19.25:457][432]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonCharacterD18F26BB4071DD5A95717D9C50E8368C.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.02.01-15.19.25:460][432]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.02.01-15.19.42:185][933]Cmd: TRANSACTION UNDO
+[2018.02.01-15.19.42:185][933]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.01-15.19.48:430][124]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.01-15.22.19:451][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2018.02.01-15.22.19:470][488]LogSavePackage: Save=9.79ms
+[2018.02.01-15.22.19:470][488]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonGameModeD17ABBFB41259ABE62908B971E79F30D.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.02.01-15.22.19:473][488]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.02.01-15.22.19:918][499]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.02.01-15.22.21:676][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2018.02.01-15.22.21:688][530]LogSavePackage: Save=8.53ms
+[2018.02.01-15.22.21:688][530]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonGameMode27400EB3465EF5ABB95674B36B4435DB.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.02.01-15.22.21:689][530]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.02.01-15.22.24:494][631]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-15.22.26:359][631]LogSavePackage: Save=149.97ms
+[2018.02.01-15.22.26:359][631]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap3F13A2F74229144888A125A643D5393B.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.22.26:363][631]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.22.26:386][631]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.260
+[2018.02.01-15.25.28:631][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.01-15.25.28:713][964]LogSavePackage: Save=73.46ms
+[2018.02.01-15.25.28:713][964]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/CharacterBE5C978140C8568931646E9B6AC340D7.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.01-15.25.28:716][964]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.01-15.25.31:850][ 43]BlueprintLog: New page: Compile Character
+[2018.02.01-15.25.42:484][321]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.25.43:946][400]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.02:477][246]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.05:688][423]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.07:339][517]Cmd: SELECT NONE
+[2018.02.01-15.26.12:222][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-15.26.14:666][877]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.15:702][932]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.16:596][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-15.26.17:194][ 13]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.26.28:972][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-15.26.30:381][561]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.27.27:812][ 94]Cmd: SELECT NONE
+[2018.02.01-15.28.23:815][186]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-15.28.25:579][186]LogSavePackage: Save=150.55ms
+[2018.02.01-15.28.25:579][186]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap9BB46411443497A27F0372A04CE39874.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.28.25:583][186]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.28.25:606][186]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.268
+[2018.02.01-15.46.33:497][567]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-15.49.38:691][513]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-15.49.38:746][513]LogMaterial: Missing cached shader map for material TutorialTPP_Mat, compiling. 
+[2018.02.01-15.49.38:806][513]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/ThirdPersonBP/Blueprints/Character.Character from Character to TutorialCharacter_C...
+[2018.02.01-15.49.38:827][513]BlueprintLog: New page: Compile Character
+[2018.02.01-15.49.45:475][632]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-15.50.03:722][ 64]BlueprintLog: New page: Compile Character
+[2018.02.01-15.50.05:034][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.01-15.50.05:119][ 74]LogSavePackage: Save=73.56ms
+[2018.02.01-15.50.05:119][ 74]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character3CB0099A4F406322B51418A81F87E132.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.01-15.50.05:125][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.01-15.50.39:476][959]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-15.50.43:880][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.01-15.50.43:958][959]LogSavePackage: Save=74.50ms
+[2018.02.01-15.50.43:958][959]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/CharacterBBC8AF814F886FD637DF759E9BD21183.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.01-15.50.43:961][959]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.01-15.50.44:249][959]LogSavePackage: Save=149.48ms
+[2018.02.01-15.50.44:249][959]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap821E8CEC41DDA701970F33895A939381.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-15.50.44:252][959]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-15.50.44:274][959]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.266
+[2018.02.01-15.53.10:602][388]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.01-15.53.10:827][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.02.01-15.53.11:101][388]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.02.01-15.53.11:575][388]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.02.01-15.53.53:835][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.02.01-15.53.53:878][442]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.02.01-15.53.54:258][442]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.01-15.54.16:913][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.02.01-15.54.17:141][ 28]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.02.01-15.54.19:476][ 75]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.02.01-15.54.19:550][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.02.01-15.54.34:996][411]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.02.01-15.54.35:024][411]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.02.01-15.54.41:222][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.02.01-15.54.41:253][546]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.02.01-15.56.04:539][650]Cmd: SELECT NONE
+[2018.02.01-16.01.03:316][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/NewMaterial" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset" SILENT=true
+[2018.02.01-16.01.03:336][344]LogSavePackage: Save=17.62ms
+[2018.02.01-16.01.03:336][344]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/NewMaterial626A46FF4C97F4E8935C6DA44288B205.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset'
+[2018.02.01-16.01.03:338][344]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset
+[2018.02.01-16.01.09:417][513]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.02.01-16.01.09:420][513]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.01.09:551][513]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.01.09:570][513]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.01.11:203][521]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.02.01-16.01.11:203][521]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.02.01-16.01.11:203][521]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.01-16.01.11:203][521]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.01-16.02.08:600][826]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.08:611][826]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.09:130][840]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.02.01-16.02.09:130][840]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.01-16.02.09:130][840]MaterialEditorStats: Texture samplers: 0/16
+[2018.02.01-16.02.16:624][967]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.16:638][967]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.17:522][992]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.02.17:522][992]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.02.17:522][992]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.02.34:816][156]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.35:543][170]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.02.35:543][170]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.02.35:544][170]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.02.55:406][475]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.02.56:356][503]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.02.56:356][503]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.02.56:356][503]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.03.10:389][617]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.02.01-16.03.15:302][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.02.01-16.03.28:892][884]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.03.28:908][884]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.02.01-16.03.28:939][884]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.02.01-16.03.29:850][907]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.03.29:850][907]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.03.29:850][907]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.03.46:593][ 88]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.03.47:310][109]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.03.47:310][109]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.03.47:310][109]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.03.55:996][286]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.03.56:010][286]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.02.01-16.03.56:822][304]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.03.56:822][304]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.03.56:822][304]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.03.57:249][312]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.04.23:547][567]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.04.23:587][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.04.25:512][611]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.04.25:512][611]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.04.25:512][611]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.04.28:431][669]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.04.28:444][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.02.01-16.04.29:177][685]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.04.29:177][685]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.04.29:177][685]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.05.44:543][662]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.05.45:571][691]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.05.45:571][691]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.05.45:571][691]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.05.47:087][722]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.05.47:105][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.05.47:851][739]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.05.47:851][739]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.05.47:851][739]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.06.10:130][969]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.10:141][969]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.10:176][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.06.11:198][996]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.06.11:198][996]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.06.11:198][996]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.06.19:633][116]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.20:344][138]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.06.20:344][138]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.06.20:344][138]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.06.20:639][144]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.06.40:776][486]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.40:810][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.06.42:556][527]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.06.42:556][527]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.06.42:556][527]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.06.45:302][576]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.46:031][597]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.06.46:031][597]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.06.46:031][597]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.06.51:295][686]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.06.52:017][703]MaterialEditorStats: Base pass shader without light map: 24 instructions
+[2018.02.01-16.06.52:017][703]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.06.52:017][703]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.07.00:426][776]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.01:150][796]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2018.02.01-16.07.01:150][796]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.07.01:150][796]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.07.12:215][957]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.12:226][957]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.07.13:001][975]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2018.02.01-16.07.13:001][975]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.07.13:001][975]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.07.22:591][ 86]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.22:604][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.07.23:373][102]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2018.02.01-16.07.23:373][102]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.07.23:374][102]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.07.24:627][126]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.24:644][126]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.07.24:676][126]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.07.25:464][140]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2018.02.01-16.07.25:464][140]MaterialEditorStats: Vertex shader: 139 instructions
+[2018.02.01-16.07.25:464][140]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.07.29:020][212]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.29:021][212]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.07.29:021][212]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.07.29:029][212]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.07.29:056][212]MaterialEditorStats: Error: [SM5] (Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.07.43:559][334]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.07.43:559][334]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.07.43:559][334]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.07.43:567][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.08:011][613]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.08:011][613]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.08:011][613]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.08:017][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.08.08:047][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.18:573][840]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.18:574][840]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.18:574][840]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.23:825][953]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.23:826][953]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.23:826][953]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.23:835][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.27:761][ 35]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.27:761][ 35]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.27:761][ 35]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.43:497][322]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.43:497][322]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.43:497][322]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.43:500][322]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.43:500][322]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.43:500][322]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.43:552][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.08.43:557][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.46:339][395]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.46:339][395]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.46:339][395]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.46:368][395]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.50:062][491]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.50:063][491]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.50:063][491]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.50:065][491]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.50:066][491]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.50:066][491]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.50:096][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.08.51:185][522]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.51:185][522]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.51:185][522]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.08.59:356][654]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.08.59:357][654]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.08.59:357][654]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.09.15:395][847]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.09.15:395][847]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.09.15:395][847]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.09.15:399][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.09.17:127][881]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.09.17:128][881]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.09.17:128][881]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.10.08:092][518]LogMaterialEditor: Applying material NewMaterial
+[2018.02.01-16.10.14:207][518]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.10.14:208][518]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.10.14:208][518]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.10.14:238][518]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.10.14:239][518]LogMaterial: Warning: C:\FYP\vr_project\ThirdPersonVR\Content\Particles\Beam\NewMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.10.14:239][518]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.10.14:242][518]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.10.14:242][518]LogMaterial: Warning: C:\FYP\vr_project\ThirdPersonVR\Content\Particles\Beam\NewMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.10.14:242][518]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.10.14:265][518]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.02.01-16.10.14:266][518]TextureStreamingBuild: Display: Compiling optional shaders took 0.005 seconds.
+[2018.02.01-16.11.05:514][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.02.01-16.11.05:516][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles/Beam/NewMaterial] ([1] browsable assets)...
+[2018.02.01-16.11.05:537][843]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Particles/Beam/NewMaterial.NewMaterial]
+[2018.02.01-16.11.05:537][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Beam/NewMaterial]
+[2018.02.01-16.11.05:537][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/NewMaterial" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/NewMaterial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.01-16.11.05:564][843]LogSavePackage: Save=17.90ms
+[2018.02.01-16.11.05:564][843]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/NewMaterial_Auto10EB68D4547F41A2EDA5DECB3A94FACE6.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/NewMaterial_Auto1.uasset'
+[2018.02.01-16.11.05:565][843]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/NewMaterial_Auto1.uasset
+[2018.02.01-16.11.05:565][843]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.02.01-16.11.59:724][390]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.11.59:724][390]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.11.59:724][390]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.11.59:726][390]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.11.59:727][390]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.11.59:727][390]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.01:144][431]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.02:156][460]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.02.01-16.12.02:156][460]MaterialEditorStats: Vertex shader: 141 instructions
+[2018.02.01-16.12.02:156][460]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.12.02:156][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.01-16.12.03:654][489]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.03:655][489]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.12.03:655][489]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.03:657][489]MaterialEditorStats: Error: [SM5] (Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.08:603][607]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.08:604][607]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.12.08:604][607]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.08:606][607]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.08:606][607]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.12.08:606][607]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.08:633][607]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.12.09:388][628]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.10:181][649]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.02.01-16.12.10:181][649]MaterialEditorStats: Vertex shader: 141 instructions
+[2018.02.01-16.12.10:181][649]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.12.10:181][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.01-16.12.32:271][868]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.12.32:272][868]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.12.32:272][868]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.12.32:277][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.12.32:304][868]MaterialEditorStats: Error: [SM5] (Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.13.01:311][535]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.01:311][535]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.13.01:311][535]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.13.01:314][535]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.01:314][535]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.01-16.13.01:314][535]LogMaterial: 	(Node Multiply) Arithmetic between types float3 and float2 are undefined
+[2018.02.01-16.13.01:347][535]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.13.02:435][566]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.03:420][592]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.02.01-16.13.03:420][592]MaterialEditorStats: Vertex shader: 141 instructions
+[2018.02.01-16.13.03:420][592]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.13.03:420][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.01-16.13.12:106][821]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2018.02.01-16.13.17:146][930]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_2, compiling. 
+[2018.02.01-16.13.36:343][125]LogMaterialEditor: Applying material NewMaterial
+[2018.02.01-16.13.36:834][125]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.36:908][125]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.36:927][125]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.02.01-16.13.36:962][125]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.02.01-16.13.37:417][125]TextureStreamingBuild: Display: Compiling optional shaders took 0.460 seconds.
+[2018.02.01-16.13.37:955][136]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2018.02.01-16.13.38:996][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/NewMaterial" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset" SILENT=true
+[2018.02.01-16.13.39:019][136]LogSavePackage: Save=18.11ms
+[2018.02.01-16.13.39:019][136]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/NewMaterial99086A7749739A0BBC93DA986A6DE22A.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset'
+[2018.02.01-16.13.39:021][136]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/NewMaterial.uasset
+[2018.02.01-16.13.39:072][136]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.02.01-16.13.39:072][136]MaterialEditorStats: Vertex shader: 141 instructions
+[2018.02.01-16.13.39:072][136]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.13.39:072][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.01-16.14.19:022][660]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.01-16.14.19:134][660]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.01-16.14.19:144][660]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.01-16.14.19:179][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.02.01-16.14.19:184][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.02.01-16.14.19:189][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.02.01-16.14.19:194][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.02.01-16.14.20:266][686]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.02.01-16.14.20:266][686]MaterialEditorStats: Vertex shader: 141 instructions
+[2018.02.01-16.14.20:266][686]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.01-16.14.20:266][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.01-16.14.22:465][743]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2018.02.01-16.14.22:497][743]LogMaterial: Missing cached shader map for material DefaultParticle, compiling. 
+[2018.02.01-16.16.51:235][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/BeamMat" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset" SILENT=true
+[2018.02.01-16.16.51:256][524]LogSavePackage: Save=18.58ms
+[2018.02.01-16.16.51:256][524]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/BeamMat3A82D11347F15143052F17AD134D3834.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset'
+[2018.02.01-16.16.51:258][524]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset
+[2018.02.01-16.16.56:870][677]LogMaterial: Warning: Material /Game/Particles/Beam/BeamMat.BeamMat needed to have new flag set bUsedWithBeamTrails !
+[2018.02.01-16.16.56:872][677]LogMaterial: Missing cached shader map for material BeamMat, compiling. 
+[2018.02.01-16.21.06:602][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2018.02.01-16.21.06:604][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles/Beam/Beam] ([1] browsable assets)...
+[2018.02.01-16.21.06:610][655]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Particles/Beam/Beam.Beam]
+[2018.02.01-16.21.06:610][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Beam/Beam]
+[2018.02.01-16.21.06:610][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/Beam" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/Beam_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.01-16.21.06:628][655]LogSavePackage: Save=16.34ms
+[2018.02.01-16.21.06:628][655]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Beam_Auto255038A5C464225EA104553888EB66BEF.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/Beam_Auto2.uasset'
+[2018.02.01-16.21.06:629][655]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/Beam_Auto2.uasset
+[2018.02.01-16.21.06:630][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Particles/Beam/BeamMat] ([1] browsable assets)...
+[2018.02.01-16.21.06:630][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Beam/BeamMat]
+[2018.02.01-16.21.06:630][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/BeamMat" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/BeamMat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.01-16.21.06:651][655]LogSavePackage: Save=10.71ms
+[2018.02.01-16.21.06:651][655]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/BeamMat_Auto2E3E5F63E41540FAC31C751937E3F769F.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/BeamMat_Auto2.uasset'
+[2018.02.01-16.21.06:653][655]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/Particles/Beam/BeamMat_Auto2.uasset
+[2018.02.01-16.21.06:653][655]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.02.01-16.25.36:680][915]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2018.02.01-16.25.39:983][982]LogEditorTransaction: Undo Edit Emitter Editor Color
+[2018.02.01-16.27.06:176][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/Beam" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset" SILENT=true
+[2018.02.01-16.27.06:195][297]LogSavePackage: Save=15.81ms
+[2018.02.01-16.27.06:195][297]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Beam984C9EAF4DA168B55CFD8D9F4484238F.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset'
+[2018.02.01-16.27.06:200][297]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset
+[2018.02.01-16.28.06:948][955]LogEditorTransaction: Undo Edit Z
+[2018.02.01-16.28.07:442][964]LogEditorTransaction: Undo Edit Z
+[2018.02.01-16.28.50:289][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/Beam" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset" SILENT=true
+[2018.02.01-16.28.50:311][525]LogSavePackage: Save=14.12ms
+[2018.02.01-16.28.50:311][525]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Beam81AEE4D8410F17BF0D0ECCB3974D6CE1.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset'
+[2018.02.01-16.28.50:314][525]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset
+[2018.02.01-16.29.18:837][847]LogCascade: Quitting Cascade. FXSystem=0x000001F47FC4D260
+[2018.02.01-16.29.27:940][214]Cmd: SELECT NONE
+[2018.02.01-16.29.33:409][481]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2018.02.01-16.30.24:037][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.31.07:586][310]LogSavePackage: Save=170.44ms
+[2018.02.01-16.31.07:587][310]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto3E9DB27D84049FDE3315D288D4316B240.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.02.01-16.31.07:589][310]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.02.01-16.31.07:595][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.211
+[2018.02.01-16.31.07:595][310]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2018.02.01-16.31.17:658][458]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2018.02.01-16.32.50:328][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.33.00:015][899]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2018.02.01-16.35.38:623][275]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.36.11:974][865]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2018.02.01-16.36.13:588][956]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.36.26:337][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.36.29:357][776]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.37.56:626][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.37.57:732][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.37.58:352][439]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.38.11:176][921]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2018.02.01-16.38.14:286][101]Cmd: DELETE
+[2018.02.01-16.38.14:287][101]Cmd: ACTOR DELETE
+[2018.02.01-16.38.14:289][101]LogEditorActor: Deleted Actor: Emitter
+[2018.02.01-16.38.14:306][101]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.02.01-16.38.15:384][165]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.41.08:500][802]LogSavePackage: Save=170.05ms
+[2018.02.01-16.41.08:501][802]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto4F301055B4035B694049BA6BE0FB58C29.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.02.01-16.41.08:503][802]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.02.01-16.41.08:505][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.208
+[2018.02.01-16.41.08:505][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2018.02.01-16.41.40:511][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.41.45:707][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.41.46:601][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.41.47:244][707]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.42.14:957][151]LogSavePackage: Save=151.71ms
+[2018.02.01-16.42.14:957][151]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMapBBCECC7948A97EEB282AFFBC1AC41967.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-16.42.14:961][151]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-16.42.15:137][151]LogSavePackage: Save=139.87ms
+[2018.02.01-16.42.15:137][151]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataA2F7C6A1495CFD24D72847A23F238B2D.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-16.42.15:139][151]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-16.42.16:799][227]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-16.42.18:390][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beam/BeamMat" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset" SILENT=true
+[2018.02.01-16.42.18:410][227]LogSavePackage: Save=9.99ms
+[2018.02.01-16.42.18:410][227]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/BeamMat12BBD4214DBACF456D4DFC9B959ED1E1.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset'
+[2018.02.01-16.42.18:414][227]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/BeamMat.uasset
+[2018.02.01-16.43.43:933][540]LogSavePackage: Save=146.80ms
+[2018.02.01-16.43.43:933][540]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap2A401CD645BD5A2D7467D580A539C1DB.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-16.43.43:936][540]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-16.43.44:105][540]LogSavePackage: Save=139.62ms
+[2018.02.01-16.43.44:105][540]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltData46D69D034371BD172AF293BB9BFBDE36.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-16.43.44:107][540]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-16.43.46:307][620]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-16.53.44:417][844]LogSavePackage: Save=171.34ms
+[2018.02.01-16.53.44:417][844]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto5355E1970442BFB91B34C66BBDB5BFD07.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.02.01-16.53.44:418][844]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.02.01-16.53.44:420][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.209
+[2018.02.01-16.53.44:421][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2018.02.01-16.58.07:136][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.58.08:997][866]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.58.17:442][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.58.19:300][414]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.58.35:156][ 38]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-16.58.46:207][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.01-16.58.49:219][678]LogEditorViewport: Clicking on Actor (LMB): Character_C (ThirdPersonCharacter)
+[2018.02.01-17.02.21:985][297]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.02.01-17.03.46:785][307]LogSavePackage: Save=160.56ms
+[2018.02.01-17.03.46:785][307]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto685E2DC1343A0A634A92CC0A213D37B43.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2018.02.01-17.03.46:786][307]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2018.02.01-17.03.46:789][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.197
+[2018.02.01-17.03.46:789][307]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2018.02.01-17.07.35:083][334]LogSavePackage: Save=150.25ms
+[2018.02.01-17.07.35:083][334]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMapA0D6009C4A67BA0347CCFDB75B1172DB.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-17.07.35:087][334]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-17.07.35:263][334]LogSavePackage: Save=138.97ms
+[2018.02.01-17.07.35:263][334]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltData9E4D7D3C421EF022BBAB078488B42A4E.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-17.07.35:265][334]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-17.07.36:061][357]LogTemp: Repeating last play command: Standalone Game
+[2018.02.01-17.08.50:830][727]LogSavePackage: Save=148.71ms
+[2018.02.01-17.08.50:830][727]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMapC9918AE148F767958D1E7B80C83B838D.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-17.08.50:834][727]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-17.08.51:007][727]LogSavePackage: Save=142.54ms
+[2018.02.01-17.08.51:007][727]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataBA3DC8FD4450CBD91F36889D52E4660E.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-17.08.51:008][727]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-17.08.52:177][766]LogTemp: Repeating last play command: Standalone Game
