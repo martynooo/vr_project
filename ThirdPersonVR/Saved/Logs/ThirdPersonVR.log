@@ -475,3 +475,100 @@ LogInit: Object subsystem initialized
 [2018.02.08-14.10.13:106][169]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/Particles/Beam/Beam.uasset
 [2018.02.08-14.10.14:164][191]LogCascade: Quitting Cascade. FXSystem=0x00000140DFE46160
 [2018.02.08-14.10.16:043][230]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-14.36.52:318][615]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-14.37.58:153][895]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-14.42.15:387][374]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-15.03.47:678][377]LogCascade: Quitting Cascade. FXSystem=0x0000014106E93A60
+[2018.02.08-15.08.03:864][415]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-15.08.05:624][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.08.05:711][415]LogSavePackage: Save=75.73ms
+[2018.02.08-15.08.05:711][415]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character6B0D88B14DA37F09CA3E2F9610FA17A7.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.08.05:715][415]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.08.06:041][415]LogSavePackage: Save=148.56ms
+[2018.02.08-15.08.06:041][415]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap8ADD58854F02D755EAF84AA36908129F.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.08-15.08.06:044][415]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.08-15.08.06:071][415]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.273
+[2018.02.08-15.14.30:636][414]LogEditorTransaction: Undo Attach Component
+[2018.02.08-15.14.30:691][414]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder) Component already registered.
+[2018.02.08-15.14.30:697][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_15:PersistentLevel.Character_C_21.CollisionCylinder) Component already registered.
+[2018.02.08-15.14.30:697][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_15:PersistentLevel.Character_C_21.CharacterMesh0) Component already registered.
+[2018.02.08-15.14.30:698][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_15:PersistentLevel.Character_C_21.Arrow) Component already registered.
+[2018.02.08-15.14.30:699][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_15:PersistentLevel.Character_C_21.CharMoveComp) Component already registered.
+[2018.02.08-15.18.04:645][964]LogSavePackage: Save=158.96ms
+[2018.02.08-15.18.04:645][964]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto48C9C475D49AA3A730D395980119DB1AF.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.02.08-15.18.04:646][964]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.02.08-15.18.04:651][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.203
+[2018.02.08-15.18.04:651][964]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.203
+[2018.02.08-15.18.49:198][609]LogCascade: Quitting Cascade. FXSystem=0x00000141094954E0
+[2018.02.08-15.20.09:893][275]LogClass: Warning: In asset 'None', there is an enum property of type 'ParticleSystemLODMethod' with an invalid value of ''
+[2018.02.08-15.20.09:893][275]LogClass: Warning: In asset 'None', there is an enum property of type 'ParticleSystemLODMethod' with an invalid value of ''
+[2018.02.08-15.20.09:893][275]LogClass: Warning: In asset 'None', there is an enum property of type 'ParticleSystemLODMethod' with an invalid value of ''
+[2018.02.08-15.22.08:843][201]LogEditorTransaction: Undo Delete current selection
+[2018.02.08-15.28.05:643][966]LogSavePackage: Save=147.28ms
+[2018.02.08-15.28.05:643][966]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_Auto5000582E64783300B23FD82A4B2CABEDB.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.02.08-15.28.05:645][966]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.02.08-15.28.05:647][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.189
+[2018.02.08-15.28.05:647][966]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2018.02.08-15.28.05:651][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character] ([1] browsable assets)...
+[2018.02.08-15.28.05:671][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Character.Character]
+[2018.02.08-15.28.05:671][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character]
+[2018.02.08-15.28.05:766][966]LogSavePackage: Save=86.34ms
+[2018.02.08-15.28.05:767][966]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character_Auto5DD9FD0A94D424690BDAB7298E1773D6A.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character_Auto5.uasset'
+[2018.02.08-15.28.05:768][966]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character_Auto5.uasset
+[2018.02.08-15.28.05:768][966]LogFileHelpers: Auto-saving content packages took 0.119
+[2018.02.08-15.34.30:075][926]BlueprintLog: New page: Compile Character
+[2018.02.08-15.34.31:844][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.34.31:950][948]LogSavePackage: Save=93.89ms
+[2018.02.08-15.34.31:951][948]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/CharacterD199C7A6403E5FBA727EC6A5994D103F.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.34.31:957][948]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.34.54:515][726]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-15.34.56:227][726]LogSavePackage: Save=163.90ms
+[2018.02.08-15.34.56:227][726]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap3D821B50471ADA2BD03E9CAE31EE9B4F.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.08-15.34.56:231][726]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.08-15.34.56:259][726]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.290
+[2018.02.08-15.36.11:524][ 45]BlueprintLog: New page: Compile Character
+[2018.02.08-15.36.12:501][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.36.12:610][ 51]LogSavePackage: Save=102.57ms
+[2018.02.08-15.36.12:611][ 51]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character4CB62B5C4F83E11238DF4E859E829F80.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.36.12:612][ 51]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset', retrying in .5s...
+[2018.02.08-15.36.13:112][ 51]LogFileManager: Error: Error deleting file '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'.
+[2018.02.08-15.36.13:112][ 51]LogSavePackage: Error: Error saving '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.36.13:114][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.36.18:840][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.36.18:935][ 51]LogSavePackage: Save=86.91ms
+[2018.02.08-15.36.18:935][ 51]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character7ABE2C2C438F1B3CD6C73AB984719005.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.36.18:938][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.36.18:944][ 51]EditorErrors: New page: Save Output
+[2018.02.08-15.36.18:945][ 51]EditorErrors: Warning: Error saving '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.36.22:086][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.36.22:176][114]LogSavePackage: Save=84.04ms
+[2018.02.08-15.36.22:176][114]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/Character11F36FBC4ACCB5B9F72E7AB6E5CBBD86.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.36.22:177][114]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.36.31:922][369]LogSavePackage: Save=157.47ms
+[2018.02.08-15.36.31:922][369]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMapB222D9904B46705E866CED874011F6ED.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.08-15.36.31:925][369]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.08-15.36.32:121][369]LogSavePackage: Save=155.12ms
+[2018.02.08-15.36.32:121][369]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataF4858BC64F26BB56EED1CBBCE84D2733.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.08-15.36.32:123][369]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.08-15.36.34:344][450]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-15.37.10:324][641]LogSavePackage: Save=155.95ms
+[2018.02.08-15.37.10:324][641]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap90C860704BDCF1D3AD18A29C36D7F2DA.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.08-15.37.10:327][641]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.08-15.37.10:501][641]LogSavePackage: Save=138.81ms
+[2018.02.08-15.37.10:501][641]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltData5E9CDB2341F3EC5284C692A7878D9A7A.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.08-15.37.10:503][641]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.08-15.50.31:997][121]LogTemp: Repeating last play command: Standalone Game
+[2018.02.08-15.54.35:684][ 69]LogCascade: Quitting Cascade. FXSystem=0x00000140E1AB9A80
+[2018.02.08-15.54.38:951][200]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Multiply_VectorFloat' [Element not found.]
+[2018.02.08-15.54.44:210][343]BlueprintLog: New page: Compile Character
+[2018.02.08-15.54.45:893][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character" FILE="../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset" SILENT=true
+[2018.02.08-15.54.45:998][378]LogSavePackage: Save=93.27ms
+[2018.02.08-15.54.45:998][378]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/CharacterCE5ED83247A1C8745F3181978ADE0E77.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset'
+[2018.02.08-15.54.46:001][378]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Blueprints/Character.uasset
+[2018.02.08-15.54.48:063][455]LogSavePackage: Save=152.81ms
+[2018.02.08-15.54.48:063][455]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMapBD5458B44432F0DA1030BEAA6EE84A77.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.08-15.54.48:068][455]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.08-15.54.48:253][455]LogSavePackage: Save=138.39ms
+[2018.02.08-15.54.48:253][455]LogSavePackage: Moving '../../../../../FYP/vr_project/ThirdPersonVR/Saved/ThirdPersonExampleMap_BuiltDataE09596784A5B216D2DE830AC19758DAD.tmp' to '../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.08-15.54.48:255][455]LogSavePackage: Display: Finished SavePackage ../../../../../FYP/vr_project/ThirdPersonVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.08-15.54.49:848][509]LogTemp: Repeating last play command: Standalone Game

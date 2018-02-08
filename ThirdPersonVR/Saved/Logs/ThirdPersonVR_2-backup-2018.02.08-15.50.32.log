@@ -1,0 +1,1750 @@
+﻿Log file open, 02/08/18 15:36:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ThirdPersonVR
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-560031980) SRandInit(-560031980).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180047
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: C:/Unreal/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.08-15.36.36:865][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-15.36.36:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.08-15.36.36:869][  0]LogInit: Computer: DESKTOP-13UT98C
+[2018.02.08-15.36.36:869][  0]LogInit: User: martynooo
+[2018.02.08-15.36.36:869][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.08-15.36.36:869][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.02.08-15.36.36:869][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.08-15.36.36:869][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.08-15.36.36:869][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2018.02.08-15.36.36:869][  0]LogMemory: Process Virtual Memory: 269.78 MB used, 269.78 MB peak
+[2018.02.08-15.36.36:869][  0]LogMemory: Physical Memory: 7347.26 MB used,  8972.54 MB free, 16319.79 MB total
+[2018.02.08-15.36.36:869][  0]LogMemory: Virtual Memory: 677.91 MB used,  8972.54 MB free, 134217728.00 MB total
+[2018.02.08-15.36.37:054][  0]LogInit: Using OS detected language (en-US).
+[2018.02.08-15.36.37:054][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.08-15.36.37:057][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.08-15.36.37:552][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.08-15.36.37:594][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.02.08-15.36.37:594][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.08-15.36.37:596][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.08-15.36.37:596][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.08-15.36.37:596][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.08-15.36.37:603][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.08-15.36.37:603][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.08-15.36.37:603][  0]LogWindows: EnumDisplayDevices:
+[2018.02.08-15.36.37:603][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.02.08-15.36.37:603][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.08-15.36.37:604][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.08-15.36.37:604][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.08-15.36.37:604][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.08-15.36.37:604][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.02.08-15.36.37:604][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.08-15.36.37:604][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.08-15.36.37:604][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.02.08-15.36.37:629][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.08-15.36.37:648][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.08-15.36.37:690][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../FYP/vr_project/ThirdPersonVR/Intermediate/Shaders/WorkingDirectory/3748/).
+[2018.02.08-15.36.37:691][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/martynooo/AppData/Local/Temp/UnrealShaderWorkingDir/587FCF3346BED355302011A8F9A35EFF/'.
+[2018.02.08-15.36.37:691][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.08-15.36.38:638][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.08-15.36.38:695][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.08-15.36.38:756][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.08-15.36.38:818][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.08-15.36.38:818][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.08-15.36.39:372][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: Loaded boot cache 0.08s 91MB C:/Users/martynooo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/martynooo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../FYP/vr_project/ThirdPersonVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../FYP/vr_project/ThirdPersonVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.08-15.36.39:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.08-15.36.39:464][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.08-15.36.39:478][  0]LogDerivedDataCache: Using Local data cache path C:/Users/martynooo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.08-15.36.39:489][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.08-15.36.39:489][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.08-15.36.39:490][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-15.36.39:490][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-15.36.39:772][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2018.02.08-15.36.39:784][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.012131 seconds
+[2018.02.08-15.36.39:888][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-15.36.40:260][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.08-15.36.40:307][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.08-15.36.40:307][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.08-15.36.40:307][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.08-15.36.40:307][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.08-15.36.40:307][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.08-15.36.40:336][  0]LogNetVersion: ThirdPersonVR , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1927482392)
+[2018.02.08-15.36.40:561][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.02.08-15.36.40:561][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.02.08-15.36.40:562][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.02.08-15.36.40:890][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.08-15.36.42:415][  0]LogMoviePlayer: Initializing movie player
+[2018.02.08-15.36.42:469][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-15.36.42:782][  0]LogCollectionManager: Loaded 0 collections in 0.001981 seconds
+[2018.02.08-15.36.42:839][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/ThirdPersonVR/Saved/Collections/' took 0.01s
+[2018.02.08-15.36.42:839][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/ThirdPersonVR/Content/Developers/martynooo/Collections/' took 0.01s
+[2018.02.08-15.36.42:839][  0]LogFileCache: Scanning file cache for directory 'C:/FYP/vr_project/ThirdPersonVR/Content/Collections/' took 0.01s
+[2018.02.08-15.36.42:839][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.08-15.36.42:839][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2018.02.08-15.36.43:051][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.08-15.36.43:100][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.08-15.36.43:661][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.02.08-15.36.43:662][  0]SourceControl: Source control is disabled
+[2018.02.08-15.36.43:662][  0]SourceControl: Source control is disabled
+[2018.02.08-15.36.43:722][  0]SourceControl: Source control is disabled
+[2018.02.08-15.36.44:215][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.08-15.36.44:530][  0]LogOcInput: OculusInput pre-init called
+[2018.02.08-15.36.44:664][  0]LogUObjectArray: 38923 objects as part of root set at end of initial load.
+[2018.02.08-15.36.44:664][  0]LogUObjectAllocator: 8349200 out of 0 bytes used by permanent object pool.
+[2018.02.08-15.36.44:664][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.08-15.36.44:779][  0]LogEngine: Initializing Engine...
+[2018.02.08-15.36.44:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.08-15.36.44:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.08-15.36.44:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.08-15.36.44:974][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-15.36.45:009][  0]LogInit: FAudioDevice initialized.
+[2018.02.08-15.36.45:026][  0]LogInit: Texture streaming: Enabled
+[2018.02.08-15.36.45:047][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.08-15.36.45:436][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.02.08-15.36.45:489][  0]LogInit: Display: Game Engine Initialized.
+[2018.02.08-15.36.45:489][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.08-15.36.45:693][  0]LogInit: Display: Starting Game.
+[2018.02.08-15.36.45:693][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.02.08-15.36.45:694][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.02.08-15.36.46:194][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.08-15.36.46:198][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.08-15.36.46:204][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.08-15.36.46
+[2018.02.08-15.36.46:204][  0]LogWorld: Bringing up level for play took: 0.005843
+[2018.02.08-15.36.46:207][  0]LogLoad: Took 0.513103 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.02.08-15.36.46:427][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.02.08-15.36.46:427][  0]LogLoad: (Engine Initialization) Total time: 12.01 seconds
+[2018.02.08-15.36.46:427][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.08-15.36.46:427][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.08-15.36.46:447][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.08-15.36.46:509][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:524][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:540][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:556][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:573][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:588][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:605][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:621][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:637][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:653][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:669][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:685][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:701][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:717][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:734][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:749][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:766][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:782][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:798][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:814][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:830][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:847][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:862][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:879][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:895][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:911][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:927][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:944][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:960][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:978][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.46:994][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:011][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:033][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:051][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:074][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:091][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:110][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:128][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:146][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:163][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:180][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:198][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:214][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:231][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:249][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:265][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:281][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:297][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:314][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:330][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:347][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:365][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:381][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:397][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:414][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:431][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:448][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:464][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:481][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:498][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:514][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:531][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:547][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:564][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:582][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:598][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:615][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:632][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:648][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:665][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:682][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:699][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:715][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:732][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:749][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:766][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:782][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:799][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:816][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:832][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:849][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:866][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:883][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:900][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:916][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:933][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:949][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:966][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.47:983][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:000][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:016][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:032][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:050][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:067][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:083][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:100][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:116][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:133][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:150][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:166][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:183][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:200][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:217][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:233][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:250][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:267][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:283][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:300][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:317][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:333][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:350][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:367][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:384][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:400][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:417][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:434][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:451][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:468][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:484][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:502][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:518][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:535][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:552][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:568][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:585][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:603][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:619][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:636][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:652][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:669][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:686][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:703][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.36.48:719][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.48:737][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.48:754][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.48:771][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:787][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:804][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:821][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:838][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:855][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:871][142]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:889][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:905][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:922][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:939][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:955][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:972][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.48:989][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:006][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:024][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:040][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:057][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:074][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:091][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:108][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:125][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:142][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:158][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:175][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:192][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:209][162]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:226][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:243][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:259][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:277][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:294][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:311][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:328][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:344][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.49:361][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:378][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:395][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:412][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:429][175]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:445][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:463][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:480][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:496][179]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:513][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:530][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:547][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:564][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:581][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:598][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:614][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:632][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:648][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:665][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:683][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:699][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:716][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:733][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:749][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:766][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:783][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:800][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:817][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:834][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:851][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:868][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:885][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:902][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:919][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:936][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:953][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:970][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.49:986][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:004][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:020][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:037][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:054][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:071][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:087][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:105][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:121][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:138][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:155][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:172][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:189][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:206][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:222][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:238][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:256][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:272][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:289][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:306][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:322][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:339][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:357][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:373][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:390][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:407][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:424][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:441][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:458][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:475][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:492][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.50:509][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:526][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:542][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:559][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:577][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:594][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:610][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:627][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:644][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:662][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:678][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:695][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:712][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:729][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:745][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:763][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:779][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:796][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:812][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:829][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:847][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:863][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:880][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:897][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:913][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:931][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:947][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:964][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:981][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.50:998][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:014][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:032][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:048][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:065][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:082][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:098][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:115][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:133][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:150][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:167][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:183][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:200][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:217][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:234][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:251][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:268][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:285][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:302][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:319][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:336][288]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:353][289]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:369][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:386][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:402][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:420][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.51:437][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.51:453][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.51:470][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.51:487][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:503][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:520][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:538][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:554][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:571][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:588][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:605][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:622][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:638][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:655][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:672][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:690][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:706][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:723][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:740][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:757][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:774][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:791][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:807][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:824][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:841][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:858][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:875][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:892][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:908][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:925][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.51:942][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:959][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:976][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.51:993][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.52:010][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.52:027][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.52:044][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.52:061][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:077][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:094][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:111][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:128][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:145][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:162][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:178][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:196][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.52:213][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:230][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:247][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:263][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:280][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:296][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:313][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:331][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:347][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:364][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:381][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:398][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:415][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:431][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:449][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:466][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:483][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:500][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:516][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:534][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:550][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:566][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:584][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:600][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:617][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:634][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:652][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:668][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:686][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:702][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:719][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:736][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:753][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:770][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:787][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:804][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:820][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:837][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:854][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:871][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:888][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:905][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:922][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:939][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:956][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:973][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.52:990][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:006][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:023][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:039][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:056][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:074][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:091][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:107][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:124][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:141][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:158][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:175][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:192][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:209][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:226][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:243][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:260][402]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:277][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:294][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:310][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:327][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:344][407]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:361][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:378][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:396][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:412][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:429][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:446][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:463][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:479][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:496][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:513][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:530][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:547][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:564][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:581][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:598][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:614][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:631][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:649][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:665][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:682][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:699][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:716][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:733][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:750][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:767][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:784][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:801][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:817][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:834][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.53:851][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:868][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:885][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:902][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:918][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:935][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:952][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:969][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.53:986][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:003][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:020][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:037][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:053][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:070][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:087][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:104][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:121][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:137][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:154][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:171][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:188][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:205][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:221][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:238][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:255][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:272][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:289][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:306][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:323][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:340][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.54:357][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.36.54:374][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:391][469]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:408][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:425][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:441][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:458][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:475][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:492][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:509][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:526][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:543][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:560][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:577][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:594][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:610][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:627][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:645][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:661][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:678][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:695][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:712][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:729][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:746][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:763][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:780][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:797][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:814][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:831][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:848][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:864][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:882][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:898][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:915][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:932][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:949][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:966][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.54:983][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:000][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:016][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:034][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:050][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:067][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:084][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:100][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:117][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:135][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:151][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:168][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:185][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:203][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:219][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:236][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:253][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:270][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:286][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:304][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:320][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:338][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:354][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:371][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:388][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:405][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:422][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:439][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:456][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:473][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:490][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:507][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:523][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:541][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:556][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:574][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:590][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:608][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:625][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:642][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.55:659][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:675][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:692][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:709][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:726][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:743][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:759][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:777][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:794][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:810][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:827][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:845][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:861][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:878][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:895][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:912][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:929][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:946][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:963][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:979][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.55:996][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:013][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:030][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:047][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:064][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:080][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:097][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:114][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:130][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:148][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:164][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:182][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:198][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:215][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:232][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:249][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:266][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:283][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:299][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:316][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:333][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:350][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:367][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:384][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:401][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:418][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:435][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:452][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:469][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:485][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:503][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:519][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:536][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:553][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:570][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:587][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:604][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:621][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:638][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:655][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:672][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:688][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:705][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.56:723][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:739][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:756][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:773][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:790][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:807][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:823][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:840][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:857][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:874][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:891][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:907][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:925][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:941][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:958][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:975][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.56:992][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:009][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:026][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:042][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:059][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:076][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:093][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:110][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:127][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:144][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:161][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:177][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:194][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:211][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:228][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:245][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:262][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:279][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.57:296][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:313][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:329][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:346][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:363][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:380][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:397][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:414][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:431][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:448][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:464][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:481][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:498][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:515][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:532][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:548][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:566][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:582][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:599][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:616][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:633][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:649][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:666][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:683][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:700][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:717][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:734][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.57:751][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.57:767][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.57:785][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:801][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:818][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:835][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:852][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:869][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:886][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:903][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:920][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:936][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:953][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:970][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.57:987][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:004][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:021][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:037][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:054][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:071][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:088][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:106][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:122][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:138][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:155][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:173][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:189][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:206][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:223][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:240][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:257][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:274][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:291][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:307][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:324][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:341][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:358][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:375][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:391][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:409][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:426][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:443][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:461][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:478][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:495][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.58:512][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:529][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:546][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:563][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:580][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:597][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:613][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:630][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:647][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:665][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:681][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:699][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:715][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:732][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:748][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:766][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:783][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:799][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:816][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:833][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:851][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:868][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:885][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:901][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:918][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:935][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:952][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:969][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.58:987][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.59:003][742]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.59:020][743]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.36.59:038][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:054][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:071][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:088][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:106][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:122][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:139][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:155][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:173][752]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:190][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:207][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:223][755]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:240][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:257][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:274][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:291][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:308][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:324][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:341][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:358][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:375][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:393][765]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:409][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:426][767]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:444][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:460][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:477][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:494][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.59:511][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.59:528][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.59:545][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.59:561][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.36.59:578][776]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:595][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:612][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:628][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:646][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:662][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:680][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.36.59:696][783]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:713][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:730][785]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:747][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:763][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:781][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:797][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:814][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:831][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:847][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:864][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:881][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:898][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:915][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:933][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:950][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:966][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.36.59:983][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.00:001][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:017][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:034][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:051][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:067][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:084][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:101][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:118][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:135][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:152][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:169][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.00:186][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:203][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:220][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:237][815]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:253][816]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:271][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:288][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:305][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:322][820]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:338][821]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:355][822]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:372][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:389][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:406][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:423][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:440][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:457][828]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:475][829]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:491][830]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:507][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:525][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:542][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:558][834]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:575][835]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:592][836]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:609][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:626][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:643][839]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:660][840]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:677][841]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:694][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:711][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:728][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:746][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:762][846]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:779][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:796][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:813][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:830][850]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:847][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:864][852]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:881][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:898][854]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:915][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:931][856]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:949][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:965][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:983][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.00:999][860]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 
+[2018.02.08-15.37.01:016][861]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:033][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:050][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:067][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:084][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:101][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:118][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:135][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:152][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:169][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:186][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:204][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:220][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:237][874]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:254][875]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:271][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:288][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:304][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:321][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:338][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:355][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:372][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:389][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:406][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:423][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:440][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:457][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:474][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:491][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:508][890]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:525][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:541][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:558][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:575][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:592][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:609][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:626][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:643][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:659][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:677][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:694][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:710][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:727][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:745][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:761][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:778][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:795][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:812][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:829][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:846][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:863][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:880][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:897][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:913][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:931][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:947][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:965][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Floor
+[2018.02.08-15.37.01:982][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall11
+[2018.02.08-15.37.01:998][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:015][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.37.02:032][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.37.02:049][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:066][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:083][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:100][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:117][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Bump_StaticMesh
+[2018.02.08-15.37.02:134][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Bump_StaticMesh
+[2018.02.08-15.37.02:150][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Bump_StaticMesh
+[2018.02.08-15.37.02:167][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:183][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:200][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:217][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:234][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.02:251][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.02:268][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.02:285][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.02:302][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:319][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.02:336][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:353][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:370][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:386][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:404][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:420][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:437][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:454][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:471][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:488][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:506][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:523][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:539][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:556][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:573][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:590][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:606][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:623][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:639][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:657][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:673][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:690][960]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:707][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:724][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:741][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:758][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:775][965]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:791][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:808][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:826][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:843][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:860][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:877][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:893][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:911][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:927][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:945][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:961][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:978][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.02:995][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:012][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:029][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:046][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:063][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:080][983]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:096][984]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:113][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:130][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:147][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:164][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:181][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:198][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:214][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:232][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:248][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:266][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:283][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:300][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:316][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:334][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:350][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:367][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:384][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:401][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:417][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:434][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:451][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:469][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:485][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:502][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:519][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:536][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:553][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:570][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:587][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:604][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:621][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:637][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:654][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:671][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:688][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:705][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:722][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:739][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:756][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall9
+[2018.02.08-15.37.03:773][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:790][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:807][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:824][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:841][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:858][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:875][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:892][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:909][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:926][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:943][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:960][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:977][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.03:993][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:011][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:028][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:045][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:062][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:078][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:095][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:112][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:129][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:146][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:163][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:180][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:197][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:213][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:230][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:248][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:265][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:282][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:298][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:315][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:332][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:349][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:366][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:384][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:400][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:417][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:434][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:451][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:468][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:486][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:502][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:519][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:536][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:553][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:570][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:588][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:604][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:621][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:638][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:655][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:672][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:689][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:705][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:722][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:739][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:756][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:773][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:791][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:808][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:824][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:841][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:858][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall10
+[2018.02.08-15.37.04:875][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] CubeMesh
+[2018.02.08-15.37.04:892][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] CubeMesh
+[2018.02.08-15.37.04:909][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.04:925][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ramp_StaticMesh
+[2018.02.08-15.37.04:942][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.04:959][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.04:975][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.04:992][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:009][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:026][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:043][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:059][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:077][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:093][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:110][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:127][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:144][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:161][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:177][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:194][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:211][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:228][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:245][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:262][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:278][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:295][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:313][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:329][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:346][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] LeftArm_StaticMesh
+[2018.02.08-15.37.05:363][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Bump_StaticMesh
+[2018.02.08-15.37.05:380][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Bump_StaticMesh
+[2018.02.08-15.37.05:397][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.37.05:414][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Linear_Stair_StaticMesh
+[2018.02.08-15.37.05:431][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:448][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:464][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:481][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:498][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:515][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:532][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:549][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:566][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:583][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:600][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:617][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:634][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:651][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:668][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:685][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:702][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:719][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:736][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:753][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:769][142]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:786][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:803][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:820][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:837][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:854][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:870][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:887][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:904][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:922][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:939][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:956][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:973][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.05:990][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:006][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:023][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:040][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Mirror
+[2018.02.08-15.37.06:057][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:074][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:090][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:108][162]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:124][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:141][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:158][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:175][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:192][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:209][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:225][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:242][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:259][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:276][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:293][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:310][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:327][175]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:344][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:361][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:378][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:395][179]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:412][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:428][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:445][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:462][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:479][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:498][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:515][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:532][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:550][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:567][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:584][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:601][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:617][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:635][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:653][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:669][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:686][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:703][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:720][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:737][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:753][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:770][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:787][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:804][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:821][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:838][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:855][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:872][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:888][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:905][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:922][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:938][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:955][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:972][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.06:988][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:005][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:022][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:039][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:056][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:073][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:089][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:106][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:123][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:140][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:157][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:174][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:191][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:208][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:224][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:241][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:258][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:275][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:292][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:309][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:326][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:343][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:360][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:377][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:394][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:410][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:428][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:444][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:461][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:478][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:495][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:512][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:528][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:546][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:563][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:579][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:596][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:614][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:631][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:648][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:665][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:681][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:699][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:716][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:732][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:749][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:766][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:783][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:800][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:817][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:833][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:851][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:868][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:885][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:902][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:918][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Wall7
+[2018.02.08-15.37.07:977][270]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-15.37.07:982][270]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-15.37.07:983][270]LogEngine: All Windows Closed
+[2018.02.08-15.37.07:983][270]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.02.08-15.37.08:794][271]LogExit: Preparing to exit.
+[2018.02.08-15.37.08:794][271]LogMoviePlayer: Shutting down movie player
+[2018.02.08-15.37.09:139][271]LogExit: Game engine shut down
+[2018.02.08-15.37.09:187][271]LogExit: Object subsystem successfully closed.
+[2018.02.08-15.37.09:198][271]LogD3D11RHI: Shutdown
+[2018.02.08-15.37.09:198][271]LogD3D11RHI: CleanupD3DDevice
+[2018.02.08-15.37.09:199][271]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (312)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module SequenceRecorder (310)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module AutomationController (308)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module AutomationWorker (306)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module AIModule (304)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module GameplayDebugger (303)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module AITestSuite (301)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (298)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (296)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (294)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (292)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module CharacterAI (290)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (286)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (284)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module MovieScene (282)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module GeometryCache (280)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (279)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (276)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module PortalServices (274)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module PortalRpc (272)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module MessagingRpc (270)
+[2018.02.08-15.37.09:208][271]LogModuleManager: Shutting down and abandoning module ProfilerService (268)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module TaskGraph (266)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module SteamVRController (264)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (262)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module OculusInput (260)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (258)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (256)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module CableComponent (254)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (252)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module AndroidPermission (250)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module ActorSequence (246)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module MediaCompositing (244)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module HTML5Networking (242)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (240)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module HotReload (239)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (236)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module UObjectPlugin (234)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (232)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (230)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module SourceControl (229)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (226)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (224)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module PhysXVehicles (222)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (220)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (218)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (216)
+[2018.02.08-15.37.09:273][271]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.02.08-15.37.09:374][271]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (206)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module GraphEditor (205)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module ContentBrowser (203)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module CollectionManager (202)
+[2018.02.08-15.37.10:065][271]LogDirectoryWatcher: A directory notification for 'C:/FYP/vr_project/ThirdPersonVR/Content/Collections/' was aborted.
+[2018.02.08-15.37.10:065][271]LogDirectoryWatcher: A directory notification for 'C:/FYP/vr_project/ThirdPersonVR/Content/Developers/martynooo/Collections/' was aborted.
+[2018.02.08-15.37.10:065][271]LogDirectoryWatcher: A directory notification for 'C:/FYP/vr_project/ThirdPersonVR/Saved/Collections/' was aborted.
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (201)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (196)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module Paper2D (194)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.02.08-15.37.10:065][271]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module ImgMedia (188)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.02.08-15.37.10:067][271]LogModuleManager: Shutting down and abandoning module Media (179)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module Overlay (176)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module OverlayEditor (175)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module VREditor (172)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module StringTableEditor (170)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (168)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (166)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module FunctionalTesting (164)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (162)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (161)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module UMG (158)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module UMGEditor (157)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module Sequencer (156)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module MessageLog (153)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module SlateReflector (148)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module Slate (146)
+[2018.02.08-15.37.10:073][271]LogModuleManager: Shutting down and abandoning module EditorStyle (144)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module MRMesh (142)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module Messaging (140)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (138)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (136)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module XAudio2 (134)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module Networking (132)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module Core (128)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module LevelSequence (126)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module KismetCompiler (124)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module MeshUtilities (122)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (121)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (120)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (119)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (117)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (115)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module MaterialBaking (111)
+[2018.02.08-15.37.10:076][271]LogModuleManager: Shutting down and abandoning module DerivedDataCache (106)
+[2018.02.08-15.37.10:496][271]LogDerivedDataCache: Shutdown
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TargetPlatform (104)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (103)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (101)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (99)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (97)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (95)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (93)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (91)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (89)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (87)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (85)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module ImageWrapper (84)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (81)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (79)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (77)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (75)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (73)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (71)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (69)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (67)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.08-15.37.10:496][271]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.08-15.37.10:497][271]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.08-15.37.10:514][271]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.08-15.37.10:515][271]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.08-15.37.10:518][271]LogExit: Exiting.
+[2018.02.08-15.37.10:519][271]Log file closed, 02/08/18 15:37:10
