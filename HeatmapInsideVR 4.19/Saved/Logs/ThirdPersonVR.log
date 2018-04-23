@@ -1,0 +1,1068 @@
+﻿Log file open, 04/23/18 18:03:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ThirdPersonVR
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(288905153) SRandInit(288905153).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271785
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.479s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am COMP-PC6040 (129.11.146.113:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.23-17.03.05:183][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-17.03.05:183][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.23-17.03.05:202][  0]LogInit: Computer: COMP-PC6040
+[2018.04.23-17.03.05:202][  0]LogInit: User: sc14mtt
+[2018.04.23-17.03.05:202][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.23-17.03.05:202][  0]LogInit: High frequency timer resolution =3.415994 MHz
+[2018.04.23-17.03.05:202][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.23-17.03.05:202][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.23-17.03.05:202][  0]LogMemory: Process Physical Memory: 273.83 MB used, 273.83 MB peak
+[2018.04.23-17.03.05:202][  0]LogMemory: Process Virtual Memory: 264.68 MB used, 264.68 MB peak
+[2018.04.23-17.03.05:202][  0]LogMemory: Physical Memory: 4551.00 MB used,  11743.74 MB free, 16294.74 MB total
+[2018.04.23-17.03.05:202][  0]LogMemory: Virtual Memory: 692.77 MB used,  11743.74 MB free, 134217728.00 MB total
+[2018.04.23-17.03.05:229][  0]LogInit: Using OS detected language (en-US).
+[2018.04.23-17.03.05:229][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.23-17.03.05:234][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.23-17.03.05:637][  0]LogStreaming: Display: Took  0.408s to EndInitTextLocalization.
+[2018.04.23-17.03.05:637][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.23-17.03.05:673][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.23-17.03.05:673][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.23-17.03.05:958][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.23-17.03.06:008][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.23-17.03.06:008][  0]LogD3D11RHI:       8088/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.23-17.03.06:013][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.23-17.03.06:013][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.23-17.03.06:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.23-17.03.06:019][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.23-17.03.06:019][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.23-17.03.06:019][  0]LogWindows: EnumDisplayDevices:
+[2018.04.23-17.03.06:019][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.23-17.03.06:020][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.23-17.03.06:020][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.23-17.03.06:020][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.23-17.03.06:020][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.23-17.03.06:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.23-17.03.06:020][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.23-17.03.06:020][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.23-17.03.06:020][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.23-17.03.06:051][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.23-17.03.06:051][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.23-17.03.06:067][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.23-17.03.06:069][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Intermediate/Shaders/WorkingDirectory/1600/).
+[2018.04.23-17.03.06:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sc14mtt/AppData/Local/Temp/UnrealShaderWorkingDir/7006F7E04F0D996689AC0183C075B9A4/'.
+[2018.04.23-17.03.06:394][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.23-17.03.06:409][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.23-17.03.06:423][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.23-17.03.06:437][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.23-17.03.06:453][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.23-17.03.06:467][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.23-17.03.06:481][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.23-17.03.06:495][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.23-17.03.06:503][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.23-17.03.06:515][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.23-17.03.06:528][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.23-17.03.06:541][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.23-17.03.06:553][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.23-17.03.06:566][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.23-17.03.06:578][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.23-17.03.06:604][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.23-17.03.06:604][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.23-17.03.06:617][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.23-17.03.06:619][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.23-17.03.06:657][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.23-17.03.06:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.23-17.03.06:684][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.23-17.03.06:697][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.23-17.03.06:718][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.23-17.03.06:737][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.23-17.03.06:737][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.23-17.03.06:882][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.23-17.03.06:882][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.23-17.03.06:882][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.23-17.03.07:741][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: Loaded boot cache 0.09s 89MB C:/Users/sc14mtt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sc14mtt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.23-17.03.07:826][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.23-17.03.07:842][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.23-17.03.07:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sc14mtt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.23-17.03.07:866][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.23-17.03.07:866][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.23-17.03.07:867][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-17.03.07:867][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-17.03.08:023][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.04.23-17.03.08:352][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-17.03.08:503][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.23-17.03.08:506][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.23-17.03.08:506][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.23-17.03.08:506][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.23-17.03.08:506][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.23-17.03.08:506][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.23-17.03.08:545][  0]LogNetVersion: ThirdPersonVR , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3116326056)
+[2018.04.23-17.03.09:038][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.150784 seconds
+[2018.04.23-17.03.09:043][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.23-17.03.09:043][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.23-17.03.09:043][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.23-17.03.10:839][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.23-17.03.10:875][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.23-17.03.11:377][  0]SourceControl: Source control is disabled
+[2018.04.23-17.03.11:378][  0]SourceControl: Source control is disabled
+[2018.04.23-17.03.11:403][  0]SourceControl: Source control is disabled
+[2018.04.23-17.03.11:429][  0]SourceControl: Source control is disabled
+[2018.04.23-17.03.12:137][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.23-17.03.12:374][  0]LogOcInput: OculusInput pre-init called
+[2018.04.23-17.03.12:514][  0]LogEngine: Initializing Engine...
+[2018.04.23-17.03.12:566][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-476B16BB
+[2018.04.23-17.03.12:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-17.03.12:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-17.03.12:799][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.23-17.03.12:857][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.03.12:872][  0]LogInit: FAudioDevice initialized.
+[2018.04.23-17.03.13:023][  0]LogDerivedDataCache: Saved boot cache 0.15s 89MB C:/Users/sc14mtt/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.23-17.03.13:039][  0]LogInit: Texture streaming: Enabled
+[2018.04.23-17.03.13:061][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.23-17.03.13:076][  0]LogInit: Transaction tracking system initialized
+[2018.04.23-17.03.13:103][  0]BlueprintLog: New page: Editor Load
+[2018.04.23-17.03.13:186][  0]LocalizationService: Localization service is disabled
+[2018.04.23-17.03.13:300][  0]LogConsoleResponse: Display: 
+[2018.04.23-17.03.13:459][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.23-17.03.13:459][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.23-17.03.13:459][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.23-17.03.13:459][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-17.03.13:459][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-17.03.13:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/' took 0.02s
+[2018.04.23-17.03.13:964][  0]SourceControl: Source control is disabled
+[2018.04.23-17.03.13:964][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-17.03.13:965][  0]LightingResults: New page: Lighting Build
+[2018.04.23-17.03.13:968][  0]MapCheck: New page: Map Check
+[2018.04.23-17.03.13:968][  0]LightingResults: New page: Lighting Build
+[2018.04.23-17.03.14:322][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.805917ms] /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.TutorialTPP
+[2018.04.23-17.03.14:528][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.03.14:538][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-17.03.14:552][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-17.03.14:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.519ms to complete.
+[2018.04.23-17.03.14:640][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.676
+[2018.04.23-17.03.14:765][  0]LogCollectionManager: Loaded 0 collections in 0.001975 seconds
+[2018.04.23-17.03.14:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Collections/' took 0.01s
+[2018.04.23-17.03.14:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Developers/sc14mtt/Collections/' took 0.01s
+[2018.04.23-17.03.14:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Collections/' took 0.01s
+[2018.04.23-17.03.14:808][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.23-17.03.14:817][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2452 classes and 558 folders.
+[2018.04.23-17.03.14:824][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.03.14:897][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.03.14:906][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.23-17.03.14:925][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-17.03.14:928][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.23-17.03.14:934][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.23-17.03.15:022][  0]LogRenderer: Reallocating scene render targets to support 1616x916 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-17.03.15:160][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.23-17.03.15:160][  0]LogLoad: (Engine Initialization) Total time: 13.11 seconds
+[2018.04.23-17.03.15:160][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.23-17.03.15:529][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.23-17.03.15:853][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.23-17.03.16:186][  2]LogAssetRegistry: Asset discovery search completed in 8.1846 seconds
+[2018.04.23-17.03.16:190][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2018.04.23-17.03.16:530][  3]LogSlate: Took 0.001065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.23-17.03.31:843][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.07.27:706][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.07.27:798][663]LogTemp: Repeating last play command: VR Preview
+[2018.04.23-17.07.27:832][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.07.27:834][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.07.27:838][663]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2018 19:07:27)
+[2018.04.23-17.07.27:838][663]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.07.27:887][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048517s)
+[2018.04.23-17.07.27:891][663]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.07.27:893][663]LogPlayLevel: PIE: World Init took: (0.006267s)
+[2018.04.23-17.07.27:894][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055490s)
+[2018.04.23-17.07.27:934][663]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.07.27:946][663]LogInit: FAudioDevice initialized.
+[2018.04.23-17.07.28:058][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.07.28:062][663]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-18.07.28
+[2018.04.23-17.07.28:063][663]LogWorld: Bringing up level for play took: 0.002124
+[2018.04.23-17.07.28:069][663]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.04.23-17.07.28:075][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.692
+[2018.04.23-17.07.28:076][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.07.28:125][664]LogRenderer: Reallocating scene render targets to support 3368x1872 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-17.07.35:312][187]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.07.37:368][279]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.07.45:498][721]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.07.56:982][235]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.08.34:847][930]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.10.14:426][803]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+	CharacterVR_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CharacterVR
+	Function /Game/ThirdPersonBP/Blueprints/CharacterVR.CharacterVR_C:ExecuteUbergraph_CharacterVR:001C
+[2018.04.23-17.10.14:428][803]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic from function: 'ExecuteUbergraph_CharacterVR' from node: Show Heatmaps in graph: EventGraph in object: CharacterVR with description: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+[2018.04.23-17.10.16:770][908]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+	CharacterVR_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CharacterVR
+	Function /Game/ThirdPersonBP/Blueprints/CharacterVR.CharacterVR_C:ExecuteUbergraph_CharacterVR:001C
+[2018.04.23-17.10.16:771][908]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic from function: 'ExecuteUbergraph_CharacterVR' from node: Show Heatmaps in graph: EventGraph in object: CharacterVR with description: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+[2018.04.23-17.10.20:636][ 81]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+	CharacterVR_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CharacterVR
+	Function /Game/ThirdPersonBP/Blueprints/CharacterVR.CharacterVR_C:ExecuteUbergraph_CharacterVR:001C
+[2018.04.23-17.10.20:636][ 81]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic from function: 'ExecuteUbergraph_CharacterVR' from node: Show Heatmaps in graph: EventGraph in object: CharacterVR with description: Accessed None trying to read property K2Node_DynamicCast_AsObject_Drawing_Logic
+[2018.04.23-17.10.22:848][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.10.23:024][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.10.23:030][180]LogSlate: Window 'ThirdPersonVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.23-17.10.23:032][180]LogBlueprintUserMessages: [CharacterVR] Total time - 56.972
+[2018.04.23-17.10.23:033][180]LogBlueprintUserMessages: [CharacterVR] Cube - 0 : 10 : 89
+[2018.04.23-17.10.23:033][180]LogBlueprintUserMessages: [CharacterVR] StatueCloud - 0 : 13 : 84
+[2018.04.23-17.10.23:033][180]LogBlueprintUserMessages: [CharacterVR] StatueGold - 0 : 12 : 531
+[2018.04.23-17.10.23:033][180]LogBlueprintUserMessages: [CharacterVR] Painting - 0 : 14 : 475
+[2018.04.23-17.10.23:033][180]LogBlueprintUserMessages: [CharacterVR] Donut - 0 : 6 : 790
+[2018.04.23-17.10.23:061][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.11.48:767][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.11.48:770][438]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.04.23-17.15.52:013][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.18.09:267][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestWallWest)
+[2018.04.23-17.18.11:920][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.18.15:856][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.18.15:856][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.18.15:857][663]PIE: New page: SIE session: ThirdPersonExampleMap (23 Apr 2018 19:18:15)
+[2018.04.23-17.18.15:857][663]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.18.15:873][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016005s)
+[2018.04.23-17.18.15:874][663]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.18.15:874][663]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.04.23-17.18.15:874][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017584s)
+[2018.04.23-17.18.15:895][663]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.18.15:906][663]LogInit: FAudioDevice initialized.
+[2018.04.23-17.18.15:906][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.18.15:939][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.18.15:941][663]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-18.18.15
+[2018.04.23-17.18.15:941][663]LogWorld: Bringing up level for play took: 0.001245
+[2018.04.23-17.18.15:942][663]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.23-17.18.15:943][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.57
+[2018.04.23-17.18.15:972][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.18.19:053][982]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.18.25:016][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.18.25:021][697]LogBlueprintUserMessages: [CharacterVR] Total time - 1.517
+[2018.04.23-17.18.25:021][697]LogBlueprintUserMessages: [CharacterVR] Cube - 0 : 1 : 516
+[2018.04.23-17.18.25:048][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.18.54:850][245]Cmd: SELECT NONE
+[2018.04.23-17.18.56:353][424]Cmd: SELECT NONE
+[2018.04.23-17.19.12:180][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.19.48:559][ 74]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting)
+[2018.04.23-17.19.49:654][193]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.23-17.19.50:182][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.20.01:031][296]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy paintingInstance, compiling. 
+[2018.04.23-17.20.01:541][296]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.20.01:542][296]TextureStreamingBuild: Display: Compiling optional shaders took 0.518 seconds.
+[2018.04.23-17.20.01:576][296]LogSavePackage: Save=16.00ms
+[2018.04.23-17.20.01:576][296]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/paintingInstance45A350464EDDEF444F7DE2875F97399D.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/paintingInstance.uasset'
+[2018.04.23-17.20.01:586][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/paintingInstance.uasset
+[2018.04.23-17.20.02:988][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.20.03:225][451]LogSlate: Window 'paintingInstance' being destroyed
+[2018.04.23-17.20.03:229][451]LogSlate: Window 'paintingInstance' being destroyed
+[2018.04.23-17.33.06:083][863]LogEditorViewport: Clicking on Actor (LMB): StatueGold_C (StatueGold)
+[2018.04.23-17.33.07:086][974]Cmd: DELETE
+[2018.04.23-17.33.07:086][974]Cmd: ACTOR DELETE
+[2018.04.23-17.33.07:091][974]LogEditorActor: Deleted Actor: StatueGold_C
+[2018.04.23-17.33.07:102][974]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.04.23-17.33.12:814][658]Cmd: TRANSACTION UNDO
+[2018.04.23-17.33.12:814][658]LogEditorTransaction: Undo Delete Actors
+[2018.04.23-17.33.21:627][679]Cmd: DELETE
+[2018.04.23-17.33.21:627][679]Cmd: ACTOR DELETE
+[2018.04.23-17.33.21:629][679]LogEditorActor: Deleted Actor: StatueGold_C
+[2018.04.23-17.33.21:639][679]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.04.23-17.33.32:682][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.33.33:008][ 23]LogSavePackage: Save=102.22ms
+[2018.04.23-17.33.33:008][ 23]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap55C39B334F01E90967A2948A6E082ABA.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.33.33:018][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.33.33:198][ 23]LogSavePackage: Save=148.82ms
+[2018.04.23-17.33.33:198][ 23]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltData6A2FBFA6438B269374E744A874C76E9E.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.33.33:204][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.33.37:728][560]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting)
+[2018.04.23-17.33.50:471][ 52]Cmd: EDIT COPY
+[2018.04.23-17.33.51:177][132]Cmd: EDIT PASTE
+[2018.04.23-17.33.53:397][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.34.04:177][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.34.22:957][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.34.31:037][543]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting)
+[2018.04.23-17.34.31:784][624]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting2)
+[2018.04.23-17.34.49:773][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.34.50:127][692]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.23-17.34.50:770][692]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.23-17.35.10:562][851]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.23-17.35.19:008][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Renders/Painting2" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Renders/Painting2.uasset" SILENT=true
+[2018.04.23-17.35.19:016][622]LogSavePackage: Save=4.54ms
+[2018.04.23-17.35.19:016][622]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting2EAF223E647409910B165508FC8B549AA.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Renders/Painting2.uasset'
+[2018.04.23-17.35.19:024][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Renders/Painting2.uasset
+[2018.04.23-17.35.20:077][721]LogSlate: Window 'Painting2' being destroyed
+[2018.04.23-17.35.20:081][721]LogSlate: Window 'Painting2' being destroyed
+[2018.04.23-17.36.05:790][ 68]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPrimitiveComponent::GetMaterial' [Element not found.]
+[2018.04.23-17.36.40:731][225]BlueprintLog: New page: Compile Painting
+[2018.04.23-17.36.57:912][ 84]Cmd: TRANSACTION UNDO
+[2018.04.23-17.36.57:913][ 84]LogEditorTransaction: Undo Edit Render Target
+[2018.04.23-17.36.58:482][152]Cmd: TRANSACTION UNDO
+[2018.04.23-17.36.58:482][152]LogEditorTransaction: Undo Move Node
+[2018.04.23-17.36.59:019][214]Cmd: TRANSACTION UNDO
+[2018.04.23-17.36.59:019][214]LogEditorTransaction: Undo Promote To Variable
+[2018.04.23-17.37.13:374][895]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting2)
+[2018.04.23-17.37.18:406][473]Cmd: DELETE
+[2018.04.23-17.37.18:406][473]Cmd: ACTOR DELETE
+[2018.04.23-17.37.18:408][473]LogEditorActor: Deleted Actor: Painting_C
+[2018.04.23-17.37.18:427][473]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.04.23-17.37.21:311][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.37.21:563][831]LogSavePackage: Save=108.20ms
+[2018.04.23-17.37.21:563][831]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap3F26FAFA4E22D85D487CAFBB17B3DA11.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.37.21:573][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.37.21:722][831]LogSavePackage: Save=102.93ms
+[2018.04.23-17.37.21:722][831]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltData82616BD3467688AC135468AB225FB777.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.37.21:728][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.37.23:603][ 54]BlueprintLog: New page: Compile Painting
+[2018.04.23-17.37.27:638][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting.uasset" SILENT=true
+[2018.04.23-17.37.27:659][509]LogSavePackage: Save=10.69ms
+[2018.04.23-17.37.27:660][509]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting7F6406304C241293173905851EECDB25.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting.uasset'
+[2018.04.23-17.37.27:668][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting.uasset
+[2018.04.23-17.37.29:110][665]LogSavePackage: Save=104.72ms
+[2018.04.23-17.37.29:110][665]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap14DCCEC54BFA610ED44B25AB4F51654D.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.37.29:120][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.37.29:253][665]LogSavePackage: Save=105.69ms
+[2018.04.23-17.37.29:253][665]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltDataD81CC78D4EE6CFCF78D1B08A824EBBCF.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.37.29:259][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.37.48:775][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.37.51:526][324]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.04.23-17.37.51:578][324]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.37.51:578][324]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.23-17.37.51:579][324]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.37.51:579][324]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.38.07:132][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestWallNorth2)
+[2018.04.23-17.38.15:074][716]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce)
+[2018.04.23-17.38.20:461][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.23-17.38.26:398][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestWallEast)
+[2018.04.23-17.38.33:327][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.38.33:629][643]LogSavePackage: Save=108.87ms
+[2018.04.23-17.38.33:629][643]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap042A117E4D1A646660DA788B33CD63FA.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.38.33:639][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.38.33:776][643]LogSavePackage: Save=102.55ms
+[2018.04.23-17.38.33:776][643]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltDataD0F9B9434976C29FA63FC6882FDE96C5.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.38.33:782][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.39.37:601][619]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting)
+[2018.04.23-17.39.43:009][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.40.27:088][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.40.32:815][441]LogSlate: Window 'Painting2*' being destroyed
+[2018.04.23-17.40.54:399][942]BlueprintLog: New page: Compile Painting2
+[2018.04.23-17.40.55:007][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Painting2" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset" SILENT=true
+[2018.04.23-17.40.55:019][988]LogSavePackage: Save=8.86ms
+[2018.04.23-17.40.55:019][988]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting2A1291B8D4E201993020F6F903C12F85E.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset'
+[2018.04.23-17.40.55:027][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset
+[2018.04.23-17.41.01:064][643]BlueprintLog: New page: Compile Painting2
+[2018.04.23-17.41.01:644][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Painting2" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset" SILENT=true
+[2018.04.23-17.41.01:661][682]LogSavePackage: Save=6.84ms
+[2018.04.23-17.41.01:661][682]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting28FA8C0E9446C2572BDC5548F99673520.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset'
+[2018.04.23-17.41.01:669][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset
+[2018.04.23-17.41.15:580][340]BlueprintLog: New page: Compile Painting2
+[2018.04.23-17.41.16:072][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Painting2" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset" SILENT=true
+[2018.04.23-17.41.16:093][377]LogSavePackage: Save=10.69ms
+[2018.04.23-17.41.16:093][377]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting23E6C20B14765E7C9452474B56AF243B0.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset'
+[2018.04.23-17.41.16:102][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset
+[2018.04.23-17.42.17:262][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.23-17.42.26:921][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.42.28:682][582]LogEditorViewport: Clicking on Actor (LMB): Painting_C (Painting)
+[2018.04.23-17.42.29:834][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.42.31:225][843]LogEditorViewport: Clicking on Actor (LMB): Painting2_C (Painting2)
+[2018.04.23-17.42.32:368][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.43.04:103][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/kebab_painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/kebab_painting.uasset" SILENT=true
+[2018.04.23-17.43.04:136][967]LogSavePackage: Save=30.37ms
+[2018.04.23-17.43.04:136][967]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/kebab_painting455AFAAD48CE36FE7E45B585DB66E40E.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/kebab_painting.uasset'
+[2018.04.23-17.43.04:145][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/kebab_painting.uasset
+[2018.04.23-17.43.04:298][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/painting.uasset" SILENT=true
+[2018.04.23-17.43.04:321][967]LogSavePackage: Save=12.32ms
+[2018.04.23-17.43.04:321][967]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/painting6961F1584B0EFF6CF625A985DAA29496.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/painting.uasset'
+[2018.04.23-17.43.04:327][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/painting.uasset
+[2018.04.23-17.43.04:342][967]LogSavePackage: Save=2.46ms
+[2018.04.23-17.43.04:342][967]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/paintingInstanceFE39A3EE49FFBF633DE573A2E6A2DED5.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/paintingInstance.uasset'
+[2018.04.23-17.43.04:351][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/paintingInstance.uasset
+[2018.04.23-17.43.15:091][ 83]BlueprintLog: New page: Compile Painting2
+[2018.04.23-17.43.15:649][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Painting2" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset" SILENT=true
+[2018.04.23-17.43.15:669][114]LogSavePackage: Save=10.57ms
+[2018.04.23-17.43.15:669][114]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/Painting2D2207D7449F3E0B674CE008266FD2A27.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset'
+[2018.04.23-17.43.15:677][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Blueprints/Painting2.uasset
+[2018.04.23-17.43.21:890][736]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Base)
+[2018.04.23-17.43.23:031][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.44.31:590][822]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/sc14mtt/Downloads/asian-chopsticks-close-up-327172.jpg)
+[2018.04.23-17.44.31:970][822]LogTexture: Display: Building textures: asian-chopsticks-close-up-327172 (AutoDXT, 5472X3648)
+[2018.04.23-17.45.09:748][ 21]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.09:812][ 21]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.09:821][ 21]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.09:836][ 21]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.09:836][ 21]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.09:836][ 21]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.09:836][ 21]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.10:478][ 74]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.10:501][ 77]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.10:511][ 78]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.10:511][ 78]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.10:665][ 94]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.10:703][ 98]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.10:713][ 99]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.10:921][120]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.10:960][124]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.11:102][139]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.11:140][143]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.11:195][149]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.11:524][185]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-17.45.11:524][185]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-17.45.11:524][185]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.04.23-17.45.11:524][185]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-17.45.14:416][525]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.14:462][526]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.14:462][526]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.14:462][526]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.14:462][526]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.14:660][548]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.14:668][549]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.14:684][551]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.14:684][551]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.14:855][571]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.14:863][572]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.14:880][574]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.15:098][599]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.15:124][602]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.15:267][619]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.15:328][626]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.15:362][630]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.15:672][666]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-17.45.15:672][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-17.45.15:672][666]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.04.23-17.45.15:673][666]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-17.45.20:972][258]LogMaterial: Missing cached shader map for material painting, compiling. 
+[2018.04.23-17.45.21:032][258]LogMaterial: Missing cached shader map for material painting, compiling. 
+[2018.04.23-17.45.21:041][258]LogMaterial: Missing cached shader map for material painting, compiling. 
+[2018.04.23-17.45.21:052][258]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.23-17.45.21:053][258]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.23-17.45.21:053][258]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.21:053][258]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.21:078][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-17.45.21:259][263]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.21:282][265]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.21:302][267]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.21:302][267]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.21:466][283]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.21:489][285]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.21:500][286]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.21:689][304]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.21:878][322]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.21:878][322]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.21:917][326]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.21:926][327]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.22:174][350]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.22:292][362]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.22:302][363]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.22:343][367]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.22:553][386]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.45.22:553][386]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.23-17.45.22:554][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.45.22:554][386]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.45.22:554][386]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-17.45.22:554][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.45.27:636][977]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.painting:MaterialGraph_1.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.sushi_painting:MaterialGraph_0.MaterialGraphNode_3
+[2018.04.23-17.45.27:637][977]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_3.MaterialExpressionMultiply_1"')'
+[2018.04.23-17.45.27:638][977]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.painting:MaterialGraph_1.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.sushi_painting:MaterialGraph_0.MaterialGraphNode_2
+[2018.04.23-17.45.27:638][977]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_2.MaterialExpressionTextureCoordinate_1"')'
+[2018.04.23-17.45.27:639][977]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.painting:MaterialGraph_1.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.sushi_painting:MaterialGraph_0.MaterialGraphNode_4
+[2018.04.23-17.45.27:639][977]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_4.MaterialExpressionScalarParameter_1"')'
+[2018.04.23-17.45.27:645][977]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.27:654][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-17.45.27:669][978]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.23-17.45.27:669][978]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.23-17.45.27:669][978]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.27:670][978]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.27:894][  3]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.27:901][  4]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.27:901][  4]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.27:919][  6]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.28:074][ 24]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.28:092][ 26]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.28:092][ 26]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.28:308][ 49]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.28:328][ 51]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.28:489][ 68]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.28:510][ 70]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.28:563][ 76]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.28:740][ 86]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.28:794][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.28:887][102]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-17.45.28:887][102]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-17.45.28:887][102]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.04.23-17.45.28:888][102]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-17.45.29:324][152]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.29:336][152]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.29:336][152]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.29:336][152]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.29:336][152]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.29:360][152]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-17.45.29:544][165]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.29:565][167]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.29:575][168]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.29:575][168]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.29:730][183]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.29:752][185]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.29:762][186]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.29:949][203]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.29:982][206]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.30:134][220]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.30:164][223]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.30:215][228]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.30:392][245]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.30:461][253]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.30:533][261]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-17.45.30:533][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-17.45.30:534][261]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.04.23-17.45.30:534][261]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-17.45.33:985][670]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.33:999][670]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.34:000][670]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.34:000][670]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.34:000][670]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.34:002][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-17.45.34:214][687]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.34:241][689]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.34:252][690]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.34:252][690]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.34:416][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.34:439][707]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.34:450][708]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.34:656][726]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.34:679][728]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.34:854][744]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.34:897][748]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.34:926][751]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.35:107][767]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.35:174][773]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.35:272][782]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.45.35:272][782]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.45.35:272][782]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.45.35:272][782]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-17.45.35:272][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.45.38:236][136]LogMaterialEditor: Saving and Compiling material sushi_painting
+[2018.04.23-17.45.38:953][136]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.38:980][136]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.38:980][136]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.38:980][136]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.38:980][136]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.38:992][136]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.39:015][136]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.39:060][136]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sushi_painting, compiling. 
+[2018.04.23-17.45.40:078][136]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.23-17.45.40:078][136]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.23-17.45.40:079][136]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.40:080][136]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.40:084][136]TextureStreamingBuild: Display: Compiling optional shaders took 1.031 seconds.
+[2018.04.23-17.45.42:127][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/sushi_painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset" SILENT=true
+[2018.04.23-17.45.42:143][136]LogSavePackage: Save=12.75ms
+[2018.04.23-17.45.42:143][136]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/sushi_painting2C987EDA4871445EE5C527A6BBF1C6EC.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset'
+[2018.04.23-17.45.42:151][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset
+[2018.04.23-17.45.42:160][136]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.45.42:160][136]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.45.42:161][136]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.45.42:161][136]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-17.45.42:161][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.45.47:110][707]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.47:116][707]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.47:116][707]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.47:116][707]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.47:117][707]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.47:127][707]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-17.45.47:155][707]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.45.47:350][724]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.23-17.45.47:351][724]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.23-17.45.47:361][725]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.45.47:370][726]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.45.47:616][750]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.45.47:626][751]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.45.47:626][751]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.45.47:645][753]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.45.47:836][772]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.45.47:853][774]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.45.47:854][774]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.45.47:854][774]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.45.48:038][793]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.45.48:108][800]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.45.48:234][812]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.45.48:267][815]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.45.48:469][834]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.45.48:479][835]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.45.48:802][871]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.45.48:802][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.45.48:802][871]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.45.48:802][871]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-17.45.48:803][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.46.35:993][247]LogMaterialEditor: Saving and Compiling material sushi_painting
+[2018.04.23-17.46.36:617][247]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.46.36:641][247]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.46.36:641][247]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.46.36:641][247]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.23-17.46.36:641][247]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.23-17.46.36:653][247]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.46.36:672][247]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.46.36:752][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sushi_painting, compiling. 
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.46.38:120][247]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.23-17.46.38:121][247]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.23-17.46.38:122][247]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.23-17.46.38:122][247]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.46.38:123][247]TextureStreamingBuild: Display: Compiling optional shaders took 1.377 seconds.
+[2018.04.23-17.46.40:176][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/sushi_painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset" SILENT=true
+[2018.04.23-17.46.40:197][247]LogSavePackage: Save=10.17ms
+[2018.04.23-17.46.40:197][247]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/sushi_paintingDBC095984D0431EEA86F179834E6CA41.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset'
+[2018.04.23-17.46.40:205][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset
+[2018.04.23-17.46.40:214][247]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.46.40:214][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.46.40:214][247]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.46.40:214][247]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-17.46.40:214][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.47.08:281][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.47.08:424][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/sushiInstance" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushiInstance.uasset" SILENT=true
+[2018.04.23-17.47.08:448][490]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sushiInstance, compiling. 
+[2018.04.23-17.47.08:894][490]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.47.08:895][490]TextureStreamingBuild: Display: Compiling optional shaders took 0.451 seconds.
+[2018.04.23-17.47.08:926][490]LogSavePackage: Save=12.78ms
+[2018.04.23-17.47.08:927][490]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/sushiInstance4F01EE154A906627BC9174838BAFDB52.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushiInstance.uasset'
+[2018.04.23-17.47.08:935][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushiInstance.uasset
+[2018.04.23-17.47.09:990][582]LogSlate: Window 'sushiInstance' being destroyed
+[2018.04.23-17.47.09:993][582]LogSlate: Window 'sushiInstance' being destroyed
+[2018.04.23-17.47.13:161][872]LogSavePackage: Save=111.15ms
+[2018.04.23-17.47.13:161][872]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap2852D5CE4519B576B812DB87C9CD9EA9.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.47.13:170][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.47.13:318][872]LogSavePackage: Save=102.11ms
+[2018.04.23-17.47.13:318][872]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltData566EC1AB43BC3D7586C0459ED00CECC3.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.47.13:324][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.47.14:677][  1]LogTemp: Repeating last play command: Simulate
+[2018.04.23-17.47.14:691][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.47.14:692][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-17.47.14:692][  1]PIE: New page: SIE session: ThirdPersonExampleMap (23 Apr 2018 19:47:14)
+[2018.04.23-17.47.14:692][  1]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.23-17.47.14:708][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015275s)
+[2018.04.23-17.47.14:708][  1]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.23-17.47.14:709][  1]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.04.23-17.47.14:709][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016812s)
+[2018.04.23-17.47.14:737][  1]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.23-17.47.14:749][  1]LogInit: FAudioDevice initialized.
+[2018.04.23-17.47.14:779][  1]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.23-17.47.14:780][  1]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.23-18.47.14
+[2018.04.23-17.47.14:781][  1]LogWorld: Bringing up level for play took: 0.001343
+[2018.04.23-17.47.14:781][  1]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.23-17.47.14:782][  1]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.566
+[2018.04.23-17.47.14:791][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.47.15:871][124]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.47.15:945][133]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.47.16:380][185]LogBlueprintUserMessages: [CharacterVR] New object Added!
+[2018.04.23-17.47.21:960][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.47.21:965][852]LogBlueprintUserMessages: [CharacterVR] Total time - 6.039
+[2018.04.23-17.47.21:966][852]LogBlueprintUserMessages: [CharacterVR] Cube - 0 : 0 : 67
+[2018.04.23-17.47.21:966][852]LogBlueprintUserMessages: [CharacterVR] Painting - 0 : 3 : 80
+[2018.04.23-17.47.21:966][852]LogBlueprintUserMessages: [CharacterVR] Painting2 - 0 : 2 : 891
+[2018.04.23-17.47.21:998][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.23-17.47.30:186][789]LogEditorViewport: Clicking on Actor (LMB): Donut_C (Donut)
+[2018.04.23-17.47.32:165][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.47.45:878][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.47.45:976][342]MapCheck: New page: Map Check
+[2018.04.23-17.47.45:989][342]Cmd: MAP REBUILD ALLVISIBLE
+[2018.04.23-17.47.45:989][342]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.04.23-17.47.46:060][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.04.23-17.47.46:066][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_731, compiling. 
+[2018.04.23-17.47.46:071][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.46:072][342]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.47.46:072][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.04.23-17.47.46:077][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.04.23-17.47.46:082][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ReflectionMaterial, compiling. 
+[2018.04.23-17.47.46:090][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.46:090][342]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.47.46:091][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ChromeBall, compiling. 
+[2018.04.23-17.47.46:099][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BeamMat, compiling. 
+[2018.04.23-17.47.46:107][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.04.23-17.47.46:115][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HeatSplat, compiling. 
+[2018.04.23-17.47.46:124][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue, compiling. 
+[2018.04.23-17.47.46:131][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Grime, compiling. 
+[2018.04.23-17.47.46:140][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy paintingInstance, compiling. 
+[2018.04.23-17.47.46:148][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.04.23-17.47.46:154][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sushiInstance, compiling. 
+[2018.04.23-17.47.46:161][342]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.04.23-17.47.47:247][342]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.23-17.47.47:248][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.47:249][342]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.47.47:249][342]TextureStreamingBuild: Display: Compiling optional shaders took 1.217 seconds.
+[2018.04.23-17.47.47:262][342]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2018.04.23-17.47.47:269][342]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2018.04.23-17.47.47:287][342]LightingResults: New page: Lighting Build - 23 Apr 2018 19:47:47
+[2018.04.23-17.47.47:326][342]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.23-17.47.47:370][342]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.23-17.47.47:380][342]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.23-17.47.47:899][342]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.23-17.47.47:900][342]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1600
+[2018.04.23-17.47.50:299][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.23-17.47.50:299][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.23-17.47.50:299][342]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.23-17.47.50:300][342]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.23-17.47.50:300][342]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.23-17.47.50:418][342]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.04.23-17.47.50:419][342]MapCheck: New page: ThirdPersonExampleMap - 23 Apr 2018 19:47:50
+[2018.04.23-17.47.50:419][342]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.04.23-17.47.50:420][342]MapCheck: Warning: StatueCloud More overridden materials (3) on static mesh component than are referenced (2) in source mesh 'SM_Statue' 
+[2018.04.23-17.47.50:538][342]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 119.924ms to complete.
+[2018.04.23-17.47.50:561][342]LogEditorBuildUtils: Build time 0:04
+[2018.04.23-17.47.50:590][342]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer paintingInstance, compiling. 
+[2018.04.23-17.47.50:596][342]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer paintingInstance, compiling. 
+[2018.04.23-17.47.50:639][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.50:639][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.50:660][343]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sushiInstance, compiling. 
+[2018.04.23-17.47.50:667][343]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.50:667][343]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer sushiInstance, compiling. 
+[2018.04.23-17.47.50:693][343]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.23-17.47.53:247][429]LogSlate: Window 'Message Log' being destroyed
+[2018.04.23-17.47.53:258][429]LogSlate: Window 'Message Log' being destroyed
+[2018.04.23-17.47.54:839][497]LogSavePackage: Save=143.85ms
+[2018.04.23-17.47.54:839][497]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap00E0BD904AD44CDD10D0009F771DABE3.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.47.54:853][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.47.55:039][497]LogSavePackage: Save=137.97ms
+[2018.04.23-17.47.55:039][497]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltDataBCC607BC4DEA47B86E6CA9AB6ADFD4F2.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.47.55:047][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.47.55:772][534]Job is a success!
+[2018.04.23-17.47.55:953][535]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.116s
+[2018.04.23-17.47.55:953][535]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.23-17.47.55:954][535]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb
+[2018.04.23-17.47.55:954][535]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.23-17.47.55:954][535]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2018.04.23-17.47.55:954][535]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2018.04.23-17.47.55:954][535]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2018.04.23-17.47.56:022][535]LogMaterial: Warning: Material /Game/Materials/sushi_painting.sushi_painting needed to have new flag set bUsedWithStaticLighting !
+[2018.04.23-17.47.56:023][535]LogMaterial: Warning: Material /Engine/Transient.sushi_painting needed to have new flag set bUsedWithStaticLighting !
+[2018.04.23-17.47.56:025][535]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.47.56:035][535]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.23-17.47.56:036][535]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.23-17.47.56:036][535]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.23-17.47.56:036][535]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.23-17.47.56:036][535]LogMaterial: Missing cached shader map for material sushi_painting, compiling. 
+[2018.04.23-17.47.56:576][535]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.04.23-17.47.56:576][535]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.04.23-17.47.56:576][535]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.04.23-17.47.56:576][535]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.04.23-17.47.56:577][535]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.04.23-17.47.56:577][535]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.04.23-17.47.56:577][535]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.04.23-17.47.56:577][535]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.04.23-17.47.56:577][535]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.04.23-17.47.56:578][535]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.23-17.47.56:578][535]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.23-17.47.56:775][535]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.04.23-17.47.56:775][535]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.04.23-17.47.56:776][535]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.23-17.47.56:776][535]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.04.23-17.47.56:776][535]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.23-17.47.56:951][535]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.04.23-17.47.56:952][535]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.04.23-17.47.56:982][535]Lightmass on COMP-PC6040: 5.07 sec total, 181 ms importing, 36 ms setup, 929 ms photons, 3.89 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 27.0 sec total, 7.01 sec processing.
+[2018.04.23-17.47.57:012][535]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.04.23-17.47.57:021][535]LogStaticLightingSystem: Illumination: 9.70 sec (512 ms encoding lightmaps, 369 ms encoding shadowmaps)
+[2018.04.23-17.47.57:021][535]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.04.23-17.47.57:021][535]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.23-17.47.57:307][535]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.04.23-17.47.57:307][535]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.23-17.47.57:307][535]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.23-17.47.57:307][535]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.23-17.47.57:308][535]DumpUnbuiltLightIteractions
+[2018.04.23-17.47.57:308][535]Lights with unbuilt interactions: 0
+[2018.04.23-17.47.57:308][535]
+[2018.04.23-17.47.57:309][535]Primitives with unbuilt interactions: 0
+[2018.04.23-17.47.59:814][535]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.23-17.47.59:814][535]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.23-17.47.59:814][535]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.47.59:815][535]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.23-17.47.59:815][535]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.47.59:815][535]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.47.59:857][536]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.23-17.47.59:857][536]MapCheck: New page: ThirdPersonExampleMap - 23 Apr 2018 19:47:59
+[2018.04.23-17.47.59:858][536]MapCheck: Warning: StatueCloud More overridden materials (3) on static mesh component than are referenced (2) in source mesh 'SM_Statue' 
+[2018.04.23-17.47.59:957][536]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 100.481ms to complete.
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-17.47.59:962][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-17.48.00:746][603]LogEditorViewport: Clicking on Actor (LMB): Donut_C (Donut)
+[2018.04.23-17.48.02:915][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.48.13:415][593]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2018.04.23-17.48.13:458][593]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.48.13:459][593]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.23-17.48.13:459][593]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.48.13:459][593]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.48.26:544][627]LogMaterial: Missing cached shader map for material M_HandMat, compiling. 
+[2018.04.23-17.48.26:563][627]LogMaterial: Warning: Material /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat needed to have new flag set bUsedWithStaticLighting !
+[2018.04.23-17.48.26:566][627]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.23-17.48.26:566][627]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.23-17.48.26:566][627]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.23-17.48.26:566][627]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.23-17.48.26:566][627]LogMaterial: Missing cached shader map for material M_HandMat, compiling. 
+[2018.04.23-17.48.28:743][750]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.04.23-17.48.29:226][780]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.04.23-17.48.30:015][829]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.04.23-17.48.30:091][834]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.04.23-17.48.31:288][908]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.04.23-17.48.32:267][969]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.04.23-17.48.32:394][977]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.23-17.48.33:498][ 45]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.23-17.48.34:537][109]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.23-17.48.47:887][160]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2018.04.23-17.48.47:914][160]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.23-17.48.47:914][160]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.23-17.48.47:914][160]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.23-17.48.47:914][160]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.23-17.48.58:159][ 39]LogEditorViewport: Clicking on Actor (LMB): Statue_C (StatueCloud)
+[2018.04.23-17.49.08:026][ 50]Cmd: SELECT NONE
+[2018.04.23-17.49.11:737][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.49.11:985][505]LogSavePackage: Save=109.73ms
+[2018.04.23-17.49.11:985][505]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap9EF12FB9422A31EE207D23A4CA9ABFF3.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-17.49.11:995][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.23-17.49.12:122][505]LogSavePackage: Save=98.16ms
+[2018.04.23-17.49.12:122][505]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltDataF45F97DC4493EBDA327D368811522947.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.23-17.49.12:131][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
