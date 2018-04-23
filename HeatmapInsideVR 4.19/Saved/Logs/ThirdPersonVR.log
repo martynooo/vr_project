@@ -1066,3 +1066,9 @@ LogInit: Object subsystem initialized
 [2018.04.23-17.49.12:122][505]LogSavePackage: Save=98.16ms
 [2018.04.23-17.49.12:122][505]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/ThirdPersonExampleMap_BuiltDataF45F97DC4493EBDA327D368811522947.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.04.23-17.49.12:131][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.23-17.49.45:025][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.23-17.49.46:474][769]LogMaterialEditor: Saving and Compiling material sushi_painting
+[2018.04.23-17.49.46:483][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/sushi_painting" FILE="../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset" SILENT=true
+[2018.04.23-17.49.46:495][769]LogSavePackage: Save=3.37ms
+[2018.04.23-17.49.46:495][769]LogSavePackage: Moving '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Saved/sushi_painting24565E6D439641880C187B9B4ECC2E22.tmp' to '../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset'
+[2018.04.23-17.49.46:504][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sc14mtt/Desktop/VRProject/vr_project/HeatmapInsideVR 4.19/Content/Materials/sushi_painting.uasset
